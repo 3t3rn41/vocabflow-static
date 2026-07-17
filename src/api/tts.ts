@@ -372,8 +372,16 @@ function speakWithBrowserTtsInternal(text: string, lang = 'en-US', playbackId: n
       }
     });
 
+    // Chrome bug 修复：cancel() 后立即 speak() 会导致新的 utterance 也被取消。
+    // 必须在 cancel 和 speak 之间加入微小延迟（让 cancel 异步完成）。
     window.speechSynthesis.cancel();
-    window.speechSynthesis.speak(utter);
+    setTimeout(() => {
+      if (playbackId !== _currentPlaybackId) {
+        resolve();
+        return;
+      }
+      window.speechSynthesis.speak(utter);
+    }, 50);
 
     // Chrome bug 修复：speechSynthesis 可能在 15 秒后自动暂停
     // 定期 resume 以保持播放
@@ -545,6 +553,11 @@ export async function speakWithBrowserTts(text: string, lang = 'en-US'): Promise
   const playbackId = ++_playbackId;
   _currentPlaybackId = playbackId;
 
+  // 确保 manifest 已加载（首次调用时可能仍在加载中）
+  await loadAudioManifest();
+  // 如果在等待 manifest 期间已被新的播放请求取消，直接返回
+  if (playbackId !== _currentPlaybackId) return;
+
   // 1. 优先尝试本地缓存音频
   const localOk = await speakWithLocalAudio(text, playbackId);
   if (localOk) return;
@@ -552,7 +565,11 @@ export async function speakWithBrowserTts(text: string, lang = 'en-US'): Promise
   if (playbackId !== _currentPlaybackId) return;
 
   // 2. 尝试浏览器内置 TTS
-  if (isBrowserTtsAvailable()) {
+  // 注意：不使用 isBrowserTtsAvailable() 检查 voices.length，
+  // 因为 Chrome 在页面加载初期 getVoices() 返回空数组，
+  // 但 speechSynthesis.speak() 仍可使用默认语音播放。
+  // 原版有 mimo TTS 作为最终回退，静态版移除后必须放宽此检查。
+  if ('speechSynthesis' in window) {
     try {
       return await speakWithBrowserTtsInternal(text, lang, playbackId);
     } catch (err) {
@@ -562,7 +579,7 @@ export async function speakWithBrowserTts(text: string, lang = 'en-US'): Promise
     }
   }
 
-  // 静态版无 mimo TTS 回退
+  // 浏览器完全不支持语音合成
   console.warn('[tts] 无可用的 TTS 方案（本地音频未找到，浏览器不支持语音合成）');
 }
 
