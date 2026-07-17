@@ -1,4 +1,4 @@
-﻿{
+{
   "0cc175b9c0f1b6a831c399e269772661": {
     "text": "a",
     "file": "word/gaokao/words/a.ogg",
@@ -33187,19 +33187,19 @@
   },
   "67bd7ea9f29298144bcc5d3725f560a6": {
     "text": "Nice to meet you.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?000_001.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/000_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "811c777553eed5c66677701f291bfb15": {
     "text": "Hello, my name is Li Ming.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?000_000.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/000_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "04e35eb3e4fcb8b395191053c359ca0e": {
     "text": "How are you?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?000_002.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/000_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
@@ -33211,37 +33211,37 @@
   },
   "d56bf970b2bd8c25ab544c337531c117": {
     "text": "Good morning!",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?000_004.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/000_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "76e8ceb80ff2c98a6ec7bee22c3a6a4e": {
     "text": "Good night, see you tomorrow.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?000_005.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/000_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "1f3f6dc2b268921e89d5d88b202e6ff0": {
     "text": "Goodbye!",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?000_006.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/000_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "be266dedb6a4fbcec6a69464d399117a": {
     "text": "See you later.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?000_007.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/000_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "cfa6968d85d0f211b8f25f81ad4f5842": {
     "text": "I'm fine, thank you. And you?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?000_003.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/000_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "12f5b14d94cf273209adbfffee9d785c": {
     "text": "This is my friend, Wang Fang.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?000_008.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/000_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
@@ -33253,25 +33253,25 @@
   },
   "fe9949947337ea0c4bcfdc00560a847b": {
     "text": "Where are you from?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?000_009.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/000_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "7c6e8c1c72453640fe81c87e080cb2c1": {
     "text": "I'm from Beijing, China.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?000_010.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/000_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "8833ffac45cdee7dc2668f4f9e1ee9f1": {
     "text": "How do you spell your name?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?000_012.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/000_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f6429fe0f1a76611670df7e1234af936": {
     "text": "What is your name?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?000_011.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/000_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
@@ -33283,7 +33283,7 @@
   },
   "023883f77bb46b961ffe55335820fe1e": {
     "text": "Long time no see!",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?000_013.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/000_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
@@ -33295,7 +33295,7 @@
   },
   "7bdf8c8a180ccf676de99228656c1b77": {
     "text": "How have you been recently?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?000_014.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/000_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
@@ -33319,7 +33319,7 @@
   },
   "ea665ac69e1a462268f854a6748092d8": {
     "text": "I have an older brother and a younger sister.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?001_001.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/001_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
@@ -33331,13 +33331,13 @@
   },
   "308c713a6fc79adab819275ac2fc144a": {
     "text": "Do you have any brothers or sisters?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?001_005.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/001_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "2885ac80f7dfbc753c2cf09d0ad074c0": {
     "text": "I'm an only child.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?001_006.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/001_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
@@ -33427,7 +33427,7 @@
   },
   "adf447f1f161534681d3e7917960df82": {
     "text": "How much is this?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?005_000.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/005_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
@@ -33439,7 +33439,7 @@
   },
   "192549508a8ccb1e5ea0c1a292bdd857": {
     "text": "Do you have a smaller size?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?005_004.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/005_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
@@ -33487,7 +33487,7 @@
   },
   "8be60aeb787e93b080b1b7b45246e12c": {
     "text": "How is the quality of this?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?005_012.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/005_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
@@ -33733,7 +33733,7 @@
   },
   "07a1ecc93ef39473abd86e3487aa6fbd": {
     "text": "I'm allergic to peanuts.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?006_011.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/006_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
@@ -33775,7 +33775,7 @@
   },
   "8a0adef99b85d8657b44e61b470bd0f9": {
     "text": "What do you usually have for breakfast?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?003_003.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/003_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
@@ -33877,7 +33877,7 @@
   },
   "e61efbda60513efcec3cfde4b5c54f7a": {
     "text": "Autumn is my favorite season.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?004_007.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/004_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
@@ -33997,7 +33997,7 @@
   },
   "4643f6b7c87bc5e169cc2ac515f3f00f": {
     "text": "What time do you get up every day?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?003_000.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/003_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
@@ -34255,7 +34255,7 @@
   },
   "0e90ae0cefaaf3dc5e7b93d489d45e90": {
     "text": "I'm preparing for the final exam.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?004_001.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/004_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
@@ -34267,7 +34267,7 @@
   },
   "d7566dd136d43b1fa5279a23ce0fb62c": {
     "text": "I have a headache.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?007_001.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/007_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
@@ -34285,7 +34285,7 @@
   },
   "3df9908568fab44ca45596f9e82f24cf": {
     "text": "You need to see a doctor.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?007_007.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/007_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
@@ -34393,7 +34393,7 @@
   },
   "fa1de473125efa9fa4899c8a33b9571f": {
     "text": "What do you usually do on weekends?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?009_002.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/009_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
@@ -34501,7 +34501,7 @@
   },
   "61d609a33687968e4454d6fef3cd63c5": {
     "text": "What hobbies do you have?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?009_000.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/009_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
@@ -35221,7 +35221,7 @@
   },
   "d2b66650a684877d193e39da398b5be7": {
     "text": "What are your plans for the future?",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?007_003.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/007_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
@@ -37435,3403 +37435,3403 @@
   },
   "78b3635d2d3706ed4d0e5c9579842772": {
     "text": "Please come in and have a seat.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?000_015.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/000_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f1b6ff2034f491804e91e7a2437d0d05": {
     "text": "Thank you for your help.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?000_016.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/000_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "14e573ad7d7f4db06388320d79061e4f": {
     "text": "You're welcome.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?000_017.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/000_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "e253f444cef0697c6a0f30a865a5d91f": {
     "text": "Sorry, I'm late.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?000_018.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/000_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "0360f12f5533ce39e872cb45ade7dfd2": {
     "text": "It doesn't matter.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?000_019.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/000_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "97e7fdb691fafd9e48f6b4d269b37cb8": {
     "text": "This is my family.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?001_000.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/001_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "9d99a9a7afee2d05d5bfa0c2eddf25dc": {
     "text": "What does your father do?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?001_002.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/001_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "e0744b3a161ed6e1e40a999756c25877": {
     "text": "My father is a doctor.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?001_003.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/001_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "a11313e8013bd9411149c2911eb38873": {
     "text": "My mother works at a bank.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?001_004.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/001_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "3a477db69fcbec26f561599c84c0deed": {
     "text": "My best friend is called Xiao Hong.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?001_007.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/001_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "5e9969207d99860af686e6acd2ee965d": {
     "text": "We've known each other since we were kids.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?001_008.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/001_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "13316b16e2c30ff72e88bd71185fbbd9": {
     "text": "She is a kind-hearted girl.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?001_009.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/001_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "14d9858e971da542269a706c740ddc27": {
     "text": "My grandparents live in the countryside.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?001_010.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/001_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "99079696858aa049e38905719c1c4c56": {
     "text": "My aunt is a teacher.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?001_012.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/001_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "59eadc5df5e776e8bc490f2a316e2e56": {
     "text": "Our family often has dinner together.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?001_011.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/001_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f3b3e1c4832da81479232af3f72bbba7": {
     "text": "He is two years older than me.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?001_013.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/001_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f4e93ff80da9f350674fb1d2df74d8cc": {
     "text": "We get along very well.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?001_014.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/001_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "238fa0822ccef371b611f03b6ceed3af": {
     "text": "My father likes playing chess.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?001_016.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/001_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "a8c3ac943edeb842707721a05e9b8240": {
     "text": "My cousin is in primary school this year.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?001_015.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/001_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f9a3af97c45fee437ef8f3da4a47c152": {
     "text": "My mother is a good cook.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?001_017.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/001_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "169646912753cbbd8b50da4fa9bb0d4d": {
     "text": "We have a cat at home.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?001_018.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/001_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "fdf273de1baffe0d27b7feb5ca58b9c9": {
     "text": "My family is very important to me.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?001_019.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/001_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "770c31516128134ce8ebcca6af21789c": {
     "text": "What is your favorite subject?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?002_000.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/002_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6309656194d5c48ca6d1330fdd81c3b6": {
     "text": "I like English and math.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?002_001.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/002_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "863c6bffb4d74ec63b8fd77b79445cb3": {
     "text": "The first class starts at eight.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?002_002.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/002_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d12379bd7288848e948436539523b0ea": {
     "text": "I don't quite understand this problem.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?002_004.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/002_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "1b6948e9fe4bb3996e59fa4dd4b97482": {
     "text": "Please open your textbook to page 20.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?002_003.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/002_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "ed0462db8b53633b7ee22a58071b493e": {
     "text": "Can you explain it to me?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?002_005.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/002_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b534359aa51b03d1d92e0bfb8747a7ac": {
     "text": "Our teacher is very strict.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?002_006.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/002_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "358365eeffffb4a89bc78b90fb2f6b03": {
     "text": "Have you finished your homework?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?002_008.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/002_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "8bf77b256c4137d56c4b20b2d763bba0": {
     "text": "Let's go to the playground to play football after class.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?002_007.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/002_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "bc1bfa2d72dc520d677902e28c8145e4": {
     "text": "There is too much homework today.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?002_009.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/002_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b3e217ca81120ed236e71dc0350c0e2c": {
     "text": "The midterm exam starts next week.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?002_010.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/002_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "7b51ce738b463550edc6970404193e93": {
     "text": "I joined the English corner.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?002_013.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/002_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "605052dcd5b95aacbcb57bf7ddfc49e2": {
     "text": "The school library is very quiet.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?002_012.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/002_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "2672c9902d85fc9b76c0659858ffbc02": {
     "text": "He got first place in this exam.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?002_014.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/002_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f0ed95e9ae3e7319b765f23407d0adb1": {
     "text": "We should help each other.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?002_015.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/002_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "67cd4bb4cce441463fd3dd18005880c1": {
     "text": "I have to go to tutoring class after school.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?002_016.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/002_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "08817d0b4b616cf0cac8f81a714be89d": {
     "text": "Our school has a big playground.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?002_017.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/002_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "411dea6c3ddcd76399de105c4f5b961d": {
     "text": "Please hand in your homework.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?002_018.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/002_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c61928bcfb5de1bf8c8d8c168999e883": {
     "text": "There's no class tomorrow. Let's hang out.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?002_019.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/002_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "76f75d902f4245fe0cdf74257bde8010": {
     "text": "I get up at six thirty in the morning.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?003_001.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/003_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "1586641d5811516cb95adf30155528f4": {
     "text": "I brush my teeth before having breakfast.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?003_002.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/003_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "e0689884d14b4091f5fae9760342aa04": {
     "text": "I ride a bicycle to school.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?003_004.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/003_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "a698632d28c15740be0be89a1b52e8a8": {
     "text": "I do my homework first after getting home.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?003_005.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/003_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "7ad2eb75dc1b972a99612dbeffe2929d": {
     "text": "I spend two hours doing homework every day.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?003_006.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/003_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "db896ec24acb8cf047a5e8f1673ae7ec": {
     "text": "I take a walk with my mother after dinner.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?003_007.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/003_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f9819103484c42dd8f1008b221d61f56": {
     "text": "I have to go to bed before 10 p.m.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?003_008.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/003_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "4d428bd513d0241abfe408138b91e9c1": {
     "text": "I often help my mother with housework.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?003_010.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/003_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b5582b6a90de0e3f6f11f8d1cd424c2c": {
     "text": "I often go to the supermarket to shop.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?003_012.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/003_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c5d41dee9098051ac97f8b6de674f022": {
     "text": "I like sleeping in on weekends.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?003_009.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/003_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "21487b2b00c7c3b6f2af7978bc04cafd": {
     "text": "I practice playing the piano for half an hour every day.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?003_013.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/003_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c626eb3c039478964ee31b79fe487f82": {
     "text": "I use my phone to listen to English.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?003_014.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/003_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "65bbe1cd7047461aa595646ea5767af6": {
     "text": "I watch TV for a while after dinner.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?003_015.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/003_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6dae508e198c0db68b5e19b990f1ffde": {
     "text": "I have developed a habit of getting up early.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?003_018.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/003_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "262dbaeb4fdf7f2f9828ba90c0cc21ca": {
     "text": "My alarm goes off at six every morning.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?003_016.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/003_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "190d0dc3ca9ca41a6cba39e0c487c02d": {
     "text": "He goes jogging every morning.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?003_017.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/003_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "4c277ab1e204ac079fd7800d39f42d9f": {
     "text": "My mother wakes me up more than once every day.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?003_019.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/003_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "967d9c636aaa6e590d98a086f4e31327": {
     "text": "What's the weather like today?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?004_000.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/004_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b81b8625673daacadcf7c9b6b1d756ca": {
     "text": "It will rain tomorrow. Don't forget your umbrella.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?004_002.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/004_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "3870d4f09b819f6b0857d4686c5404d9": {
     "text": "The weather is nice today. It's sunny.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?004_001.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/004_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "a69058f1769da250d9046e85161eac3c": {
     "text": "It's much colder today than yesterday.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?004_003.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/004_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "ed3bd4247ce7119444641f26595ee5d7": {
     "text": "It's snowing outside.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?004_004.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/004_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "8b5bf78068d4f4562946e5ef07024e06": {
     "text": "It's too hot in summer. I don't want to go out.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?004_006.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/004_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "9d816e320a9ea0e5c90a2936098a1f5b": {
     "text": "We often make snowmen in winter.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?004_008.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/004_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b307c1b3fdcba7a9195362e7e8add509": {
     "text": "I like spring best because all the flowers bloom.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?004_011.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/004_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "cb1520ab5d40033d8df70c3fef44422b": {
     "text": "There was a heavy rain yesterday.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?004_010.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/004_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "94f5ef54e689cc7316af7fee6072dc72": {
     "text": "It's foggy today. Drive carefully.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?004_012.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/004_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "668d6937bdc8bf30aa6b134d80ddb2e1": {
     "text": "Winter here is long and cold.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?004_013.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/004_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "bb1956fb7f9e98c23aac398fa5c0ea03": {
     "text": "Spring in Beijing is windy.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?004_005.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/004_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "af76e4584ddc41df3858654354a85b34": {
     "text": "Spring has come and the weather is getting warmer.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?004_014.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/004_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "8e4a72eb5940ee1399e6e277671ffc38": {
     "text": "It's like an oven outside.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?004_016.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/004_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "66853bbbf443841fa2717919b39f78f5": {
     "text": "Today will be cloudy to sunny.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?004_018.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/004_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "93c1de69453643a5608e4836f21e99d9": {
     "text": "The weather forecast says the high will be 35 degrees tomorrow.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?004_009.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/004_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "82a98e2f933a4bbb9aebf507c68f9b1f": {
     "text": "It's almost the end of the year and it's getting colder and colder.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?004_017.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/004_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f4a8b2a30e6a0babd899f8157fabf66f": {
     "text": "I don't like humid weather.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?004_019.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/004_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "1cfeb0cfb708f44ea59d6c71a480203f": {
     "text": "It's too expensive. Can you give me a discount?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?005_001.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/005_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "dc791282ba337cce72e8798feb59036d": {
     "text": "I'm just looking around.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?005_002.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/005_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6383a4e4a73fed0e03d9c86ee9a36d65": {
     "text": "Can I try on this piece of clothing?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?005_003.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/005_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "7c76c0302b8452156e5fec38b35c8d83": {
     "text": "I want to buy a pair of sports shoes.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?005_005.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/005_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "cd042b8de40d8eaddff173ef04e5e3db": {
     "text": "I don't really like this color.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?005_006.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/005_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "dbe3b2c335899babef86814d7493d188": {
     "text": "Do you think it will rain today?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?004_015.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/004_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "535ea8fb7af109291b499c33a112c532": {
     "text": "Where is the cashier?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?005_007.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/005_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b64b313715ee5f8763da4e018e059f48": {
     "text": "This piece of clothing is 20% off.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?005_009.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/005_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d19c91982ba39ef7b29479d4f5015dd3": {
     "text": "Can I pay with WeChat?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?005_008.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/005_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "368d9d5546cab5cffd4a4e2cecac12ea": {
     "text": "I'd like to return this item.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?005_010.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/005_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "06193e93ab497d7e986f9c5e02c6e6e8": {
     "text": "Please give me a receipt.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?005_011.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/005_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "5ebfc018bccd3535e18073e4d2861685": {
     "text": "Which one do you think looks better?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?005_013.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/005_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "17c23413c7f279e226a996ea1bdf25be": {
     "text": "This price is already a good deal.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?005_014.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/005_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "94d743c01e4539ef5af2cb3898b5c2a9": {
     "text": "Things in the supermarket are cheaper than in small shops.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?005_015.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/005_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "1cded828f3a14a91506a29cc7f5418b7": {
     "text": "I need a shopping bag.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?005_016.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/005_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "fa424e9828817d18eccc8e851e7a27a1": {
     "text": "The supermarket is having a big sale today.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?005_017.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/005_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "4293a39f3195db721087773827e2bdee": {
     "text": "Can you save one for me?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?005_018.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/005_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "9c94d7756810e94c0bd4f4030bdce838": {
     "text": "That comes to 120 yuan in total.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?005_019.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/005_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c17691672e0f37a02682671a0828e015": {
     "text": "Are you hungry?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?006_000.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/006_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d47af341fce1f25a6e5a570acfcce0bf": {
     "text": "I want to eat noodles.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?006_001.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/006_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "85e31df9b68cde00ddf54601dcf7ead1": {
     "text": "What did you have for breakfast?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?006_003.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/006_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "4ffedf50ad9e3ab41f5d8da2243b2b63": {
     "text": "This dish tastes very good.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?006_002.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/006_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "3c6c437183fffbf0e8bfd16918e0c197": {
     "text": "I drank a glass of milk.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?006_004.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/006_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "527e040e5819f1b74eaef4f2b698f4d5": {
     "text": "What would you like to drink?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?006_005.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/006_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "19394eb3b2bb51c3865f1f2fe1233e1e": {
     "text": "Please give me a glass of water.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?006_006.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/006_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b96552b27878d84686f4c0ae7611b07e": {
     "text": "This restaurant is very famous.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?006_007.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/006_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "0460ba5ceacf1fde6c1a3f81b00bf1e0": {
     "text": "Can you eat spicy food?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?006_008.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/006_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "8be2539a9ec3203f3a25a3b7ee5f81a1": {
     "text": "Sichuan food is both spicy and delicious.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?006_009.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/006_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "50db179a9f418c40c95de65850359060": {
     "text": "We eat in the school cafeteria at noon.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?006_010.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/006_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "61b99fad20d1ae73c0eebc5a88383591": {
     "text": "Don't forget to take your medicine.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?006_012.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/006_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "baf6ea60ee1cedd94292f9e9e97f05dc": {
     "text": "Mom's cooking is the most delicious.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?006_013.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/006_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "0e1ac9379cedad2da0f6295d933902fd": {
     "text": "Eating more vegetables is good for your health.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?006_014.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/006_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "9fa0162bda1db4e528f1595e8afb3af7": {
     "text": "What do you want to eat, Chinese food or Western food?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?006_015.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/006_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d2d2bceada7bbe2e6831e646a63261f6": {
     "text": "This dish is too salty.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?006_016.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/006_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d47bae78e11a65e743f63dedd8defcf9": {
     "text": "Would you like another bowl of rice?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?006_017.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/006_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "fc1270a87515a8b55bdc2f3bbd4541bb": {
     "text": "I'm full, thank you.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?006_018.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/006_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "0d4e3f88b964c43fb8f44b869e180a77": {
     "text": "I don't feel well.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?007_000.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/007_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "ead7fe41f6c221403a8093a7cb833ab9": {
     "text": "The ice cream at this shop is very famous.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?006_019.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/006_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "19aec25c5fb1bede2f582aa165e9f6a2": {
     "text": "I had a fever yesterday.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?007_002.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/007_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "ff2a86acf2546a43f6ecd2c5c71e4c9d": {
     "text": "You should drink more water and get more rest.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?007_003.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/007_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "8804cb9391f48b7180889b854c937649": {
     "text": "I've been coughing for several days.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?007_004.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/007_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "3f07375976f57e25f39dc5446256a1d2": {
     "text": "Have you taken your temperature?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?007_005.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/007_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c83d745a6e205379745c7b09f1baf099": {
     "text": "I have a stomachache.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?007_006.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/007_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "0c1ebfea51cd8944c9038751b74f3ef6": {
     "text": "Are you allergic to any medicine?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?007_008.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/007_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "951329a312f2381ca778089268548572": {
     "text": "Three times a day, after meals.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?007_009.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/007_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "845b5f1ec636268c179a3a1b4eed8c39": {
     "text": "I have a terrible toothache.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?007_011.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/007_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "53b97114743024626994a2d4d275af84": {
     "text": "You'd better not eat too many sweets.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?007_010.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/007_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "366de513e444d0ff48845374cfcd6648": {
     "text": "You should exercise every day.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?007_012.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/007_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6aaa00b8eda3c8a146f158adeb5827de": {
     "text": "I didn't sleep well last night.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?007_013.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/007_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "126fd7ea4423dbeea06e533b9fc3e4eb": {
     "text": "Staying healthy is very important.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?007_014.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/007_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "22b3898019f876840b6d26f2be362b22": {
     "text": "I feel weak all over.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?007_016.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/007_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "79320cfde0f06638c08fe5020c81f6de": {
     "text": "The doctor said I need to rest for a week.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?007_017.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/007_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "2cc854410b2cc6f100ccedc3de2a2e59": {
     "text": "Going to bed early and rising early is good for health.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?007_015.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/007_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "85fc2f362832444e51ed4e4f8ea3862e": {
     "text": "You have a cold. Keep warm.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?007_018.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/007_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "1e4dfbc8b09386d8ae8507318fb25422": {
     "text": "Regular health check-ups are very necessary.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?007_019.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/007_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d1db11d3ace5ca484f03885d6233fe1a": {
     "text": "Excuse me, where is the nearest subway station?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?008_000.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/008_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "2a53ba602f830a4cb20c6dd97b3e2a57": {
     "text": "Go straight along this road.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?008_001.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/008_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "451632bf3d8072caa3f976e1b3edfe82": {
     "text": "Turn left at the second crossing.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?008_002.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/008_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "fa3b3dfce520b5207432feb6cdc9de1d": {
     "text": "It's about ten minutes' walk.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?008_003.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/008_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "2669deac74e6a0e0cf2916ea33118a55": {
     "text": "You can take Bus No. 15.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?008_004.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/008_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c5072e94b58832f4df99220919a184bc": {
     "text": "How do I get to the Forbidden City?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?008_005.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/008_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "a4bb24c5c51f5b69888480a76d2359d1": {
     "text": "Where do I transfer?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?008_006.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/008_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "e71ec7e79587c5d4a19577ebf2850227": {
     "text": "How long does it take to get there?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?008_007.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/008_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "2e560a36557d426d630abc2475318160": {
     "text": "I'll take a taxi to the train station.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?008_008.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/008_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "898909fd4087a2553f59ae0b1520e3d3": {
     "text": "Please stop at the next intersection.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?008_010.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/008_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "df60e33b77711a55cb29d4acdaa33f2a": {
     "text": "It's rush hour. The traffic is heavy.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?008_009.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/008_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c78641ef054f057c9f826183dfb84964": {
     "text": "You've missed your stop.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?008_011.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/008_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "62dedbd7f978d1d41265421d0c6384cb": {
     "text": "Excuse me, how long does it take to get to the airport?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?008_012.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/008_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b72ecf589fe21d21c3d9034770c05950": {
     "text": "I take the subway to work every day.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?008_013.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/008_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "0938993fc62afc779717604eddf9c63b": {
     "text": "Parking is not allowed here.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?008_014.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/008_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "5c5e47cc34cf1dfad08199e87c53dd68": {
     "text": "The red light is on. Please stop.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?008_015.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/008_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "1e650b989a16d2d64e073c7da2dd36c1": {
     "text": "We're going to be late. Let's hurry.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?008_017.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/008_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "17032ad258d356bdc7e37aca2f875722": {
     "text": "Be careful when crossing the road.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?008_016.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/008_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "1f91600ab6b250da858f244a92782985": {
     "text": "It's a five-minute walk after getting off the subway.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?008_019.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/008_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c2d1eb64c2b5c056152b751b3335bc96": {
-    "text": "I prefer cycling 鈥?it's both eco-friendly and good exercise.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?008_018.ogg",
+    "text": "I prefer cycling — it's both eco-friendly and good exercise.",
+    "file": "sentence/language_sense_sentences/初中篇/008_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c99a5d2667696e298dd252414392a012": {
     "text": "I like playing basketball.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?009_001.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/009_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "a8d2ebdbe573106f4b98b7d2c4087593": {
     "text": "I like reading, especially novels.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?009_003.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/009_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f6f6ced6d252dfa2306b32bb1245741a": {
     "text": "She is very interested in painting.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?009_004.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/009_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6f93d434bd1ced2425eec1d6a337644f": {
     "text": "I've been learning the piano since primary school.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?009_006.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/009_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "51f9ebccb029db6b35c45f4cb5b09c27": {
     "text": "My hobby is collecting stamps.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?009_008.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/009_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b4108deff9147b1de8a80e847d042cc1": {
     "text": "He is good at playing the guitar.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?009_005.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/009_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "687b6daa4da191bef89a67b03d5261e4": {
     "text": "He plays football after school every day.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?009_011.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/009_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "07dc607694152654c774cd6874642411": {
     "text": "What's your favorite movie?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?009_007.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/009_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "40e107b25d44a18e6fc5700a42669085": {
     "text": "I like listening to music to relax.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?009_010.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/009_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "79847f9e01617feb4e784b84e28dc9de": {
     "text": "Playing chess can train your thinking.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?009_012.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/009_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "e9789407d4b8a44f6ccc3cef75c13ce4": {
     "text": "Swimming is my favorite sport.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?009_009.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/009_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "37153f35d3fe5e2c4fb851ebd4d3a320": {
     "text": "What kind of music do you like?",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?009_013.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/009_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "e41235a70d252c1e3d6f3851abbf1717": {
     "text": "I've recently become fascinated with photography.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?009_014.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/009_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f85cc7cd4e216748ed4ff773ef357902": {
     "text": "Hobbies make life more interesting.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?009_018.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/009_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "3bf6ce1ed55fa88d4d2b902b1a4bf260": {
     "text": "She is learning Chinese calligraphy.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?009_016.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/009_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "4d2b27273b367fddf74b001fb6cf4196": {
     "text": "If I have time, I'd like to learn to cook.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?009_019.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/009_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "9464d60cea10fd668074993b04af63a0": {
     "text": "Which countries have you been to?",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?000_000.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/000_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "91e3c8476f2c37c4b1b55220b50ab2ff": {
     "text": "I like running in the park.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?009_017.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/009_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "990625f0134db8337a1b3a67ecf83366": {
     "text": "I want to travel to Europe.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?000_001.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/000_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "9dd54e9cd2a0076623d7bf4b8f721eba": {
     "text": "Are your passport and visa ready?",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?000_004.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/000_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "36984cc2479253d837bb04e97d304d21": {
     "text": "We booked the hotel in advance.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?000_003.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/000_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "7f5bfda2b6e12250b1be2785845f7b4c": {
     "text": "Making handicrafts makes me happy.",
-    "file": "sentence/language_sense_sentences/鍒濅腑绡?009_015.ogg",
+    "file": "sentence/language_sense_sentences/初中篇/009_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b12459abcdaaed8490de3065017d3aa0": {
     "text": "The scenery here is so beautiful!",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?000_005.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/000_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "a0ea08dcce1035b6774905cc2604a2f0": {
     "text": "When are you planning to leave?",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?000_002.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/000_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "2c8625fd41e7a52d36390fd8222275aa": {
     "text": "I want to take a photo as a souvenir.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?000_006.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/000_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "8a0c6c5586fef1c0bda02adff4f1ea05": {
     "text": "This trip cost me quite a lot of money.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?000_007.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/000_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "1a57f3aa1b0674334b77b39fcff1b39a": {
     "text": "Do you prefer independent travel or a package tour?",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?000_009.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/000_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d0a25acd53f0dea022ab5f2ab01fe8b8": {
     "text": "We rented a car for a road trip.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?000_010.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/000_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "4bf3b382024102dac9e87414c97e8e64": {
     "text": "Traveling can broaden one's horizons.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?000_008.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/000_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "08a477109069d473741fd3547b76a9e1": {
     "text": "This ancient city has a history of thousands of years.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?000_012.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/000_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "fbf3e969c57a390021622846d6f45ed3": {
     "text": "Please help me put the luggage on the rack above.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?000_011.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/000_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6733c35a9d2df94671ed34f0d7df19c4": {
     "text": "Do you mind if I sit by the window?",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?000_013.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/000_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c0d9d592d29b354b451304e77cbe1241": {
     "text": "The local food is very distinctive.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?000_014.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/000_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "28c0f4ea735b29dbd052dc5e92c90fb0": {
     "text": "I've been to the Great Wall three times, and it feels different every time.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?000_015.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/000_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "bff940e3393bee5f4ae27d59f49e4d71": {
     "text": "Ticket prices go up during peak tourist season.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?000_016.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/000_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f2941ff7da812bcc1314e080b06ab217": {
     "text": "We'd better make a travel plan.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?000_017.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/000_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "5ad6a1d74d20a9c884dd1562afdef091": {
     "text": "That temple was built during the Tang Dynasty.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?000_018.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/000_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "baeaca885035437488aab1ec42f14ab7": {
     "text": "Read ten thousand books and travel ten thousand miles.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?000_019.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/000_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "9d4dc3e3c11eaaf40506af241ee4ec7d": {
     "text": "Protecting the environment is everyone's responsibility.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?001_000.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/001_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "0e41765e6258c91dcb455e092bbb52f2": {
     "text": "We should use fewer plastic bags.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?001_001.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/001_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "0a67d9c80f4860e63fffac90fa03cc01": {
     "text": "Air pollution is getting worse and worse.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?001_002.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/001_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "7096cadff0d5944b735531e40c123a71": {
     "text": "Many animals are in danger of extinction.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?001_003.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/001_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "61762974c67fd9de733c39702a9d1493": {
     "text": "Global warming is a serious problem.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?001_006.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/001_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "48b21785d72fbd5c19dbb927323c4125": {
     "text": "Saving water is very important.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?001_004.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/001_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "fcc3075a889e9c4dd4443d40c4dac673": {
     "text": "We should plant more trees and cut fewer.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?001_005.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/001_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "cc339fc0a4652129d9432c35874d5d9d": {
     "text": "Recycling can reduce waste.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?001_007.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/001_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "bd96e62f968657ae9ff05d2a583b17ab": {
     "text": "Solar energy is a kind of clean energy.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?001_009.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/001_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "3ec929936f1335dc966d034859177a64": {
     "text": "The river has been polluted by factory waste water.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?001_008.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/001_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "a273bcc39e0aacadd8535ede8ab38ec1": {
     "text": "We should develop the habit of sorting garbage.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?001_010.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/001_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "90aba722deb364f8d5ab831b6aea4df6": {
     "text": "Nature provides us with abundant resources.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?001_011.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/001_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "7b98697025624af0e79f4012f860327e": {
     "text": "Noise is also a kind of pollution.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?001_012.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/001_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "1869eeda09d6b48c2b28242171a1a0a8": {
     "text": "More and more people are realizing the importance of environmental protection.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?001_013.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/001_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b21ae5838573b80436cc2b1214a31705": {
     "text": "Ocean plastic pollution threatens marine life.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?001_014.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/001_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6a2a1e336b2d54a97b47acf18c6fe0f5": {
     "text": "Disposable products are very harmful to the environment.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?001_015.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/001_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "62e7ac94b705826b70021456ceed2260": {
     "text": "This city is promoting green transportation.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?001_016.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/001_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "081d28bdac0ef344ab25a7433340c635": {
     "text": "Protecting the environment is protecting ourselves.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?001_019.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/001_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "a20a10601c6a57a009d1979f24e27fe5": {
     "text": "We only have one Earth.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?001_018.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/001_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "e7f530794b32819e7960885fd58cf3fe": {
     "text": "Many countries have banned the use of disposable chopsticks.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?001_017.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/001_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "ec823158ae19fb1b4932669801bf8042": {
     "text": "Smartphones have changed our way of life.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?002_000.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/002_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "2b716a3f13bfd216b719b428e059041a": {
     "text": "The Internet has made the world smaller.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?002_001.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/002_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f48f052ac7ee1ec66740de1f928e1059": {
     "text": "Can you help me connect to the Wi-Fi?",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?002_003.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/002_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d04c61f2bde5f282967cfa0796dac5d7": {
     "text": "I spend too much time on my phone every day.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?002_002.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/002_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6bf864f7e4ded66f13a13782d7597948": {
     "text": "Online shopping is very popular in China.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?002_004.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/002_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "5bdb6cf84fb3c8f2e8328de94e42ede6": {
     "text": "Do you have a social media account?",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?002_006.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/002_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "0256c9b86d49c78ab8865e1322122b42": {
     "text": "Artificial intelligence is changing every industry.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?002_005.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/002_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "3306a4c44019406653d38f3a4325d63c": {
     "text": "The Internet has brought great convenience to learning.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?002_007.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/002_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b7f62812f9191e694403c129e5676509": {
     "text": "We should pay attention to Internet security.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?002_008.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/002_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "61e44f55bfab58b094443c9655df139b": {
     "text": "Don't leak personal information online.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?002_009.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/002_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "a1bf162b177696808913cd9ad7ce2854": {
     "text": "This article went viral online.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?002_010.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/002_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "9f23344a40942ca874c0db5afb50037a": {
     "text": "Many students study through online courses.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?002_012.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/002_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c768c0c3f0ce1d2778bac877046a1a47": {
     "text": "Technology has made life more convenient.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?002_011.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/002_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "3d42aad1a5ca5bfcfaced7d31abd08d5": {
     "text": "5G technology will bring enormous changes.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?002_013.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/002_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "a0bf1bdb420db3ac2a32647624fde3a4": {
     "text": "Watching short videos can easily become addictive.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?002_014.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/002_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "a9f4f103504ac3b0226db8cfdf8920b9": {
     "text": "Robots can do many repetitive jobs.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?002_015.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/002_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b1ad4836023b40e25da0d07d0f74efa4": {
     "text": "Technology is a double-edged sword.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?002_018.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/002_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "fd2d768e2ef05b7714ad634b4ee278c3": {
     "text": "We should learn to identify false information online.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?002_016.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/002_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "7d1942d1a9788d4abaec6b0f4255b540": {
     "text": "I'm not very familiar with how to use this software.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?002_019.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/002_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "fabbb2753e7625a3e35e52f5a6456cbf": {
     "text": "Electronic products are updated very quickly.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?002_017.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/002_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "a0cfb4e49e067f5c552774357a55d1b5": {
     "text": "A true friend will lend a hand in times of difficulty.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?003_000.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/003_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "82d07a70e9ed7f241df0aa895bfef228": {
     "text": "Our friendship has lasted for many years.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?003_001.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/003_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "e2caaaefd4717f6c7e6e14daeca4838f": {
     "text": "Good friends should be honest with each other.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?003_002.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/003_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "e8cae92957781072fd811e4347a79df7": {
     "text": "We grew apart because of an argument.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?003_003.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/003_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "49d854e125f7f5cd8113873d7fbed706": {
     "text": "It's comfortable to be around him.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?003_004.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/003_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "9facd7b998763d432a770b41f5ac2ff4": {
     "text": "She is a person worthy of trust.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?003_006.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/003_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "8a5336b779483afb26bde11d706bf32a": {
     "text": "Friendship requires effort from both sides.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?003_005.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/003_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "dabbc00657ec9d0abc27ca2495c2636b": {
     "text": "We can talk about anything.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?003_008.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/003_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "aebdbbeefa652505970b90b6036261a4": {
     "text": "True friendship doesn't change because of distance.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?003_007.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/003_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "3c11a85b2e89634a1a5e8127f4b6f93d": {
     "text": "She is always willing to listen.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?003_009.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/003_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "46ac357184b6ed9bbd3e9e33baa35d91": {
     "text": "Communication is the key to solving problems.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?003_010.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/003_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "bf0a8e3ed41149800efff408ccea3226": {
     "text": "We should respect everyone's differences.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?003_012.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/003_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "400aaaab7419ebdce138613ba404c4fa": {
     "text": "I feel misunderstood.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?003_013.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/003_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "309ceea5e0df60d17843098d6b52be1d": {
     "text": "He would do anything for his friends.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?003_011.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/003_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "fac4eda5a4f7a33ddcfd04583ca5163e": {
     "text": "Poor interpersonal relationships can affect studies.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?003_014.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/003_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "954d5e090ad76dba9fc1f034c700f34c": {
     "text": "Would you like to go to the movies with me?",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?003_015.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/003_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f7591ddc060d1106c042fc0a9d95eafc": {
     "text": "He often helps classmates in difficulty.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?003_017.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/003_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "16610cc22729632a094a35a832280e2e": {
     "text": "We have different opinions, but we still respect each other.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?003_016.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/003_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "08f0ba24b7f14eb2c444ad7d8b97d115": {
     "text": "Don't speak ill of others behind their backs.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?003_018.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/003_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "a6411caae617755eb7d9a5acce7d1f94": {
     "text": "One true friend is better than a hundred acquaintances.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?003_019.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/003_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "8ce98e0e7c65652ccfbac7ef03b8f1e1": {
     "text": "The Gaokao is very important for Chinese students.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?004_000.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/004_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "15a1f81cfc0bdc62eb71be28c4b4f66f": {
     "text": "Do you have any good study methods?",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?004_002.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/004_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c19040fdc62a1dc42ec5f28a6d1969af": {
     "text": "It's important to memorize vocabulary every day.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?004_003.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/004_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "9534bdae2ff38aadf6c38c4943a54655": {
     "text": "Making a study plan can improve efficiency.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?004_005.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/004_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "0165872b4edeca1316f810012a3ef307": {
     "text": "I didn't do well on the English exam this time.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?004_004.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/004_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "828cbf96ebad8e5e7142cfd688324b34": {
     "text": "Math has always been my weak point.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?004_006.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/004_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "5e30141c16dc0b36e55985112affaa94": {
     "text": "She ranks among the top in every exam.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?004_007.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/004_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "0f982f91955dfa1a8820677d941af2f9": {
     "text": "Which university are you planning to apply to?",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?004_008.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/004_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "3a8324a4bfa5c3a04e934fad928f496d": {
     "text": "Going to college is not the only way out.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?004_009.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/004_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "be94b75013e64b2417ef59b4600b178a": {
     "text": "Taking notes is very helpful for review.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?004_010.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/004_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f829875c236d475dea8b2e04421d4643": {
     "text": "We should learn from each other and complement each other's strengths.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?004_011.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/004_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "96d36c64e3f0883c4c70aca8913acd05": {
     "text": "Cramming before the exam doesn't work well.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?004_012.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/004_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f545da006b316128ffc0170b07035f49": {
     "text": "It's important to keep a good mindset.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?004_014.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/004_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "ad213730e8b8aa310bb2d4599a1d48ff": {
     "text": "Besides grades, overall ability is also important.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?004_015.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/004_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "25f58c1302049edcc680fb7ba91b8062": {
     "text": "Failure is the mother of success.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?004_018.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/004_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "63d95aca6ce82bc569c87695f14da185": {
     "text": "The teacher encourages us to think more and ask more questions.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?004_017.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/004_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c1b55f775af95e7fff843064a775b63a": {
     "text": "She was admitted to Tsinghua University.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?004_016.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/004_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "47b91b520eb5257a4305651b7bfb3dfd": {
     "text": "Hard work will never be in vain.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?004_019.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/004_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c6396e095dd9aec86ab88e179c5a472f": {
     "text": "What sport do you like best?",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?005_000.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/005_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "21afdb9f9dcdf5e1ab694d06b9aa120c": {
     "text": "Basketball is becoming more and more popular in China.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?005_002.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/005_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d12d9673ae34d5e4475d9935ccf3ab1f": {
     "text": "He broke the school long jump record.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?005_003.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/005_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c8247ac68faee2a7806e3a7d6f7636c5": {
     "text": "I regret not starting to review earlier.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?004_013.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/004_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "890f9d4bda36d36e628f606ab00eeb58": {
     "text": "Sports not only strengthen the body but also relieve stress.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?005_004.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/005_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "678755065f698218bf1851a6eaa60cc0": {
     "text": "Our class won the relay race at the school sports meet.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?005_005.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/005_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "a4b92b6a3fb774f9b024150450eb46b1": {
     "text": "I keep up running every day.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?005_001.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/005_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "bc696e6db24ee4a533740c5c36351ab4": {
     "text": "I'm learning to swim.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?005_006.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/005_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "46d5c4bed846a8cebf4af126581f5e6b": {
     "text": "The World Cup is held every four years.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?005_008.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/005_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "9fa678b589c44159efd17ae662ab14f6": {
     "text": "Have you ever played badminton?",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?005_010.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/005_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "5d686c34fb2d3f8e30e3de3e9c449cc2": {
     "text": "The Chinese table tennis team is very strong.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?005_007.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/005_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "e600fa3b74ea6969e7ebc45a0af93eb1": {
     "text": "Warm-up exercises can prevent injuries.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?005_009.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/005_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d76b556337c87907e771ed70e9f28b78": {
     "text": "He is the captain of the school basketball team.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?005_011.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/005_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b2def8a5f68ba6ff3d13b4575c38eb9f": {
     "text": "Sticking to exercise requires willpower.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?005_012.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/005_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "1f03637d96c36c719e3c5d99d59d1253": {
     "text": "Participating in team sports can cultivate a spirit of cooperation.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?005_013.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/005_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "fc0c8861e8b49146417db2c05c59f910": {
     "text": "The point of competition is participation, not just winning or losing.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?005_014.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/005_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "75c92c6800a900ab3af81356c09a8265": {
     "text": "I like watching live broadcasts of sports games.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?005_015.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/005_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "492cdb8167ba7de9457d361dfeac6486": {
     "text": "The Olympic spirit inspires countless people.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?005_016.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/005_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "22daa2a4b9546173cd276c985663cc66": {
     "text": "She represented China in the Asian Games.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?005_017.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/005_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "fe90d619929f53cdb8f1614033222c2d": {
     "text": "Life lies in movement.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?005_019.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/005_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "90bd571fa648a0870c7567d0b6e1046e": {
     "text": "You should stretch properly after exercise.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?005_018.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/005_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "eef37a031a57ce4b031ad40ea8221e2b": {
     "text": "The Spring Festival is the most important traditional festival in China.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?006_000.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/006_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "9acb2422d3f9ebe9e5a3649fcdaf0872": {
     "text": "Did you receive any lucky money?",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?006_003.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/006_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "21048c48c3cd75afa6543cbd537f4e6b": {
     "text": "During the Mid-Autumn Festival, we eat mooncakes and enjoy the moon.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?006_001.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/006_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "3c2c89d93d92e183dee7758dfa125c63": {
     "text": "The Dragon Boat Festival is held in memory of Qu Yuan.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?006_002.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/006_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d09579f311bcf1dc825434008da8fb8a": {
     "text": "People eat tangyuan during the Lantern Festival.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?006_004.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/006_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "77ec758cd7efb09e1e6704d83ec56fa6": {
     "text": "Christmas is very popular in Western countries.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?006_006.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/006_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6a71136aca19adf7a64b41b425d292e4": {
     "text": "Putting up Spring Festival couplets is a traditional custom.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?006_005.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/006_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "94e18a274c25586110b4c1409a7674f4": {
     "text": "Every country has its own unique culture.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?006_007.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/006_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "ec16a70d642589098c213d8a9194e386": {
     "text": "We should respect differences between different cultures.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?006_008.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/006_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f1f9458ca7fc2d28094922d5fc21e446": {
     "text": "The whole family gets together during the Spring Festival.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?006_009.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/006_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "ca3955b90d274d064a9b45a315d62171": {
     "text": "Setting off firecrackers can drive away evil spirits.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?006_010.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/006_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "cdff3700f476488f69cb65eb32cec683": {
     "text": "More and more young people enjoy celebrating foreign holidays.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?006_011.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/006_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "620011ae0ef46d30f08ccdd7dde78963": {
     "text": "During the Qingming Festival, people visit and sweep the graves of their ancestors.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?006_012.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/006_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "91a461c6ea700ddfc90690540517a55b": {
     "text": "The Double Ninth Festival is a holiday for respecting the elderly.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?006_013.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/006_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d9569250216efcd0e5f2b7b5407568e9": {
     "text": "The Mid-Autumn Festival symbolizes reunion.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?006_015.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/006_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "052eee2902a3877071e84896a0270a90": {
     "text": "Traditional culture is the foundation of a nation.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?006_014.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/006_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "7443bc014144ac8ec168fbf999b14131": {
     "text": "New Year customs vary from place to place.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?006_016.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/006_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "2366a47af4d597e1cdf81a688d0b73de": {
     "text": "He is very interested in Chinese culture.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?006_017.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/006_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d1314fa7bc07b90654eaa76a83b3d1bf": {
     "text": "Cultural exchange can promote international understanding.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?006_018.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/006_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "9eaf1cb7c0098ae12469dfc6bdec01c6": {
     "text": "We should not let the customs of traditional festivals disappear.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?006_019.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/006_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "53a4dfd17cf323720f1204c11566abac": {
     "text": "What are your plans after graduation?",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?007_000.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/007_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "e4d81cb2a02c7f98e3a43929c3a9bc33": {
     "text": "I want to become a doctor.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?007_001.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/007_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "77d6e3e1fccf8b058e0e7342b4044da7": {
     "text": "I want to study computer science.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?007_004.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/007_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "2b1ae626d85ffc594f228aaf046d770b": {
     "text": "He plans to start a business after college graduation.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?007_005.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/007_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "bb5cac2e282bf8ba3794c166d1495737": {
     "text": "My dream is to study abroad.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?007_002.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/007_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "24640c14526d37bbbb3eda343a4dad10": {
     "text": "Realizing your dreams requires continuous effort.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?007_006.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/007_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "701401633a878ed04961bedeb56b3e1e": {
     "text": "Both short-term and long-term goals are important.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?007_007.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/007_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "136977ce67756bb20e5da3f35d6b64b8": {
     "text": "Have you ever thought about what job you want to do in the future?",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?007_008.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/007_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "46d20c2eede6ec0184662a702ca75856": {
     "text": "I hope to travel around the world in the future.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?007_009.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/007_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "39ee722aec802027d292bce5b6e8c57e": {
     "text": "What is your career aspiration?",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?007_011.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/007_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "a916682aaed378a2d5d347af154b38ae": {
     "text": "I want to get into a good university.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?007_010.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/007_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "53afcd66f2015ab52678ec5a1d84e367": {
     "text": "I plan to apply for a master's degree before looking for a job.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?007_012.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/007_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "78b0597195dc21bf203a559d3e782e73": {
     "text": "Life needs clear goals.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?007_013.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/007_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "65ec361611db82688816f5a4ae668481": {
     "text": "I'm preparing to apply for a scholarship.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?007_014.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/007_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "44541a771c60d4e494ee8de842258007": {
     "text": "Whatever you do, give it your all.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?007_015.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/007_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "1886a2d725b0aedd2d6561985a752e15": {
     "text": "Opportunity always favors the prepared mind.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?007_016.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/007_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "e12ca99f1fed010aded53999325ba3ad": {
     "text": "She wants to become a translator.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?007_017.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/007_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "4ff834a2623a5114d71d14cfc5aa35a2": {
     "text": "Don't be afraid to change your plans.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?007_018.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/007_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6461e050533e2a007c02cc0dbedd6aa0": {
     "text": "The future is in your own hands.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?007_019.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/007_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f2841338ec8d97f56b09407e1203ae44": {
     "text": "I'm in a really good mood today.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?008_000.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/008_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f8c81ee558ba34b5a1e55a18b4d8df92": {
     "text": "This thing made me very angry.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?008_001.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/008_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f6bc7f6ab1e08539437d339f2d06ca1b": {
     "text": "I'm so happy to hear this news!",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?008_003.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/008_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "7d47b6b6da8819cf7527dee5fed9115f": {
     "text": "I feel very disappointed.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?008_002.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/008_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "25360edabf6b8f06170572945ac9e240": {
     "text": "He looks very upset.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?008_004.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/008_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "dd44395537e12182a03f898d2018ec01": {
     "text": "I was so nervous that my hands were shaking.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?008_005.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/008_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "3f52a8b81110e8a564d492e01a2aafb8": {
     "text": "Can you understand how I feel?",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?008_006.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/008_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "299514f3ad62e41adcc8e7ce3b24b932": {
     "text": "I don't know how to express my gratitude.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?008_007.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/008_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6f7cafd709df549c5db287047248430c": {
     "text": "I'm proud of myself.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?008_009.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/008_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "9b45686bd707cac0a21deb5124eb1a49": {
     "text": "I always feel anxious before exams.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?008_010.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/008_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "e1b54e7a321153942e7fa35e0a1b9847": {
     "text": "His encouragement touched me deeply.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?008_011.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/008_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "328b62b367d051a1a902b046c753c378": {
     "text": "Sometimes I feel lonely.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?008_012.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/008_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "913575a43327381670f5d4d59109a570": {
     "text": "Please don't misunderstand me.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?008_013.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/008_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c998d051d849ce691790173316a11b78": {
     "text": "This matter surprised and delighted me.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?008_008.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/008_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "ced8f8e4d7aae2fda367f847ad189617": {
     "text": "You've let me down.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?008_014.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/008_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "9661c28f3a7126ecc1c6cf98f820042f": {
     "text": "I completely understand how you feel.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?008_015.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/008_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "a7d6555b5b7242a52e953cebb291324b": {
     "text": "She couldn't help crying.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?008_016.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/008_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "19d6821ddd51b12310f8d44b77189e32": {
     "text": "Something very embarrassing happened to me today.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?008_018.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/008_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6dbd499cfece9c730208e6deff196e1d": {
     "text": "Keeping an optimistic attitude is good for physical and mental health.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?008_017.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/008_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d36dd43a9bdce185f54f7ade16161579": {
     "text": "I felt a great sense of relief when I received your letter.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?008_019.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/008_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "e0dffae04c38b10bf208e9c0a631dc0b": {
     "text": "What TV series are you watching recently?",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?009_000.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/009_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "1b1b214d6bfa44c78a974a36530babe5": {
     "text": "This movie is adapted from a novel.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?009_001.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/009_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "ef51779aa6efb1acde32c2b77a93dfd3": {
     "text": "I think variety shows are a bit boring.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?009_002.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/009_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f879a58a99dfb0d5aa6bde4af83ccf4f": {
     "text": "The news report says the temperature will drop today.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?009_004.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/009_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "88c56ee8222bedde860c5b98383b61a5": {
     "text": "Do you have a favorite singer?",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?009_003.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/009_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "5f6defe07a371b387032e294bcb7e3e8": {
     "text": "We should view online information rationally.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?009_005.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/009_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d32e454c3ed185f3418b0e7a5a199c1e": {
     "text": "Short video platforms are very popular among young people.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?009_006.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/009_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "53064495cda63306da1436198e7f864f": {
     "text": "Do you often watch documentaries?",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?009_007.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/009_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "9e3b91776ce010ff5b235c562ab6952a": {
     "text": "This book is a bestseller.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?009_008.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/009_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d5c7be3c54cc1668a0fe73715d8e56df": {
     "text": "This documentary reveals many social issues.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?009_009.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/009_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6f71abaf719fd62b8288f0cdcc2799a5": {
     "text": "Good movies can inspire people to think.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?009_011.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/009_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "49afdc1520dc6245ad6cd5ce7fcc6671": {
     "text": "Every move of celebrities gets attention.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?009_010.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/009_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b77370ccac96ac4cede963c613aaec8d": {
     "text": "I think reading books is more meaningful than looking at phones.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?009_012.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/009_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "062d9d84cbb41c2248d76336b373dff5": {
     "text": "What do you think of this newly released movie?",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?009_013.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/009_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "91ea6494ef867aff0db97f264e52b6f7": {
     "text": "She shared her travel experience on social media.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?009_015.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/009_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "e4f0d0ddb3d9d924b8ed4b94621e7493": {
     "text": "This book has benefited me greatly.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?009_016.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/009_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "39f5bb9348267b5a7f14f7a2210b6a06": {
     "text": "Reality shows are popular with many young people.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?009_018.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/009_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "61536cbf3173aa3689ef4fbb89c8ca77": {
     "text": "News media should report facts objectively and fairly.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?009_017.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/009_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "aa9bb6ebc76de30721dfc762e751f72b": {
     "text": "The research methodology of this paper is debatable.",
-    "file": "sentence/language_sense_sentences/澶у绡?000_000.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/000_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "e41a51489b1ad61c989899262f2a59b8": {
     "text": "We need to cite more sources in the literature review.",
-    "file": "sentence/language_sense_sentences/澶у绡?000_001.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/000_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c020c3d984ea69fbebaf6f7f5cbbdea0": {
     "text": "Your argument lacks sufficient supporting evidence.",
-    "file": "sentence/language_sense_sentences/澶у绡?000_002.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/000_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "832ff9ec807ff20c7b9a95747e00c0a9": {
     "text": "The results of this study are statistically significant.",
-    "file": "sentence/language_sense_sentences/澶у绡?000_003.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/000_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "50c2c39e23bab284c36a990d0bec4f3f": {
     "text": "How do you view the limitations of this experiment?",
-    "file": "sentence/language_sense_sentences/澶у绡?000_004.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/000_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f0be65b277e58d2633a09a93d86ed55d": {
     "text": "I prefer paper books to e-books.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?009_019.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/009_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "98b4b128c8db5fda6ab240d325fc0dca": {
     "text": "His graduation thesis won the Outstanding Thesis Award.",
-    "file": "sentence/language_sense_sentences/澶у绡?000_005.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/000_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "36822b8d265eea2ee87acb6e4ae111f1": {
     "text": "I'm preparing an academic presentation for next month.",
-    "file": "sentence/language_sense_sentences/澶у绡?000_006.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/000_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "a9092269b19efc461b70e9bfc3a30de7": {
     "text": "This theoretical framework is applicable to our research.",
-    "file": "sentence/language_sense_sentences/澶у绡?000_007.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/000_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c01d5f34b1713de6fcd8fe9e403ac199": {
     "text": "Advertisements can sometimes mislead consumers.",
-    "file": "sentence/language_sense_sentences/楂樹腑绡?009_014.ogg",
+    "file": "sentence/language_sense_sentences/高中篇/009_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c99e5ae4a76f742b3961bf1ae1d6b940": {
     "text": "We need to conduct a more in-depth analysis of the data.",
-    "file": "sentence/language_sense_sentences/澶у绡?000_008.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/000_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "661a59e7acfd7e07f55a5f36ceacdc71": {
     "text": "You should note the sources of references in your paper.",
-    "file": "sentence/language_sense_sentences/澶у绡?000_009.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/000_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "cc787ad5aa5bc995e627c6093d18c695": {
     "text": "Plagiarism is absolutely unacceptable in academia.",
-    "file": "sentence/language_sense_sentences/澶у绡?000_010.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/000_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "081703e329488f8963a73947f8cf8b86": {
     "text": "This research fills a gap in the field.",
-    "file": "sentence/language_sense_sentences/澶у绡?000_011.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/000_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "213eb48a01ab43341d2d04caa2654a41": {
     "text": "Critical thinking is very important in academic research.",
-    "file": "sentence/language_sense_sentences/澶у绡?000_013.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/000_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "80cf9d32d28208b903effd6d33823e9c": {
     "text": "Quantitative and qualitative research each have their pros and cons.",
-    "file": "sentence/language_sense_sentences/澶у绡?000_012.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/000_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b27f4fe3a4741bf9fc444921fa3fdc26": {
     "text": "We need to verify whether this hypothesis holds true.",
-    "file": "sentence/language_sense_sentences/澶у绡?000_015.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/000_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "91f160fd9bb04ba1323a65e14ed42060": {
     "text": "This professor's research area is artificial intelligence.",
-    "file": "sentence/language_sense_sentences/澶у绡?000_014.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/000_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "62b53ec9c3fb913e65188842482d7744": {
     "text": "Interdisciplinary research is becoming a trend.",
-    "file": "sentence/language_sense_sentences/澶у绡?000_016.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/000_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "edefffadd1e38c5c39845ceb2e5bfa7b": {
     "text": "The thesis defense made me very nervous.",
-    "file": "sentence/language_sense_sentences/澶у绡?000_017.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/000_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "5924b56a0a671ff060be8653240a58c9": {
     "text": "The experiment proved that our inference was correct.",
-    "file": "sentence/language_sense_sentences/澶у绡?000_018.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/000_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6320d1f09e76ae7f79fe7a12db8f92d1": {
     "text": "Educational equity is an important topic of social concern.",
-    "file": "sentence/language_sense_sentences/澶у绡?001_000.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/001_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "22bacf53d5458ad8d6336a72ee36ae2a": {
     "text": "Academic integrity is a bottom line that every researcher must uphold.",
-    "file": "sentence/language_sense_sentences/澶у绡?000_019.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/000_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "301ece69245d0776832c7cd34652ba2f": {
     "text": "An aging society brings many challenges.",
-    "file": "sentence/language_sense_sentences/澶у绡?001_002.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/001_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "10422fcab30a34230ba5eaa9ea27faf0": {
     "text": "The gap between urban and rural areas still exists.",
-    "file": "sentence/language_sense_sentences/澶у绡?001_001.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/001_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "14c28816ac0ac998f988da2a50f24045": {
     "text": "We should pay attention to the rights of vulnerable groups.",
-    "file": "sentence/language_sense_sentences/澶у绡?001_003.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/001_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "ecd53f07746319360631daefb72696e1": {
     "text": "Young people face great employment pressure.",
-    "file": "sentence/language_sense_sentences/澶у绡?001_004.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/001_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "bf0a6b9ef2455ba3d7195c8a852b1474": {
     "text": "Cyberbullying is a serious social issue.",
-    "file": "sentence/language_sense_sentences/澶у绡?001_006.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/001_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "43f5422ce7af0c41929ebf682c88e8c3": {
     "text": "The wealth gap is widening in some countries.",
-    "file": "sentence/language_sense_sentences/澶у绡?001_005.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/001_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "4543a4ef65b4ee375bda4c37c709af3e": {
     "text": "There is still a long way to go for gender equality.",
-    "file": "sentence/language_sense_sentences/澶у绡?001_007.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/001_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "de85336e11ab2b65fcec71138fad2e15": {
     "text": "Volunteering is a great way to give back to society.",
-    "file": "sentence/language_sense_sentences/澶у绡?001_008.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/001_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "1f57e4621cd8f7bc74c28d9f9ee7dccc": {
     "text": "We have a responsibility to contribute to society.",
-    "file": "sentence/language_sense_sentences/澶у绡?001_011.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/001_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "29cb987840f03468a5d339dc90c6db47": {
     "text": "The purpose of education is not only to impart knowledge.",
-    "file": "sentence/language_sense_sentences/澶у绡?001_010.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/001_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "7ed48aa0e74c3100ec9dcecae8269930": {
     "text": "The impact of social media on teenagers has sparked widespread discussion.",
-    "file": "sentence/language_sense_sentences/澶у绡?001_009.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/001_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "36e3f27c7ce0c3809e5540e7d0b15ed8": {
     "text": "There is no simple solution to this problem.",
-    "file": "sentence/language_sense_sentences/澶у绡?001_012.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/001_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6f61031c68dd67a4591bd84df97721a4": {
     "text": "Food safety is related to everyone's health.",
-    "file": "sentence/language_sense_sentences/澶у绡?001_013.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/001_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b8048b422ff86ada6e601cdd636714b1": {
     "text": "The issue of left-behind children in rural areas deserves attention.",
-    "file": "sentence/language_sense_sentences/澶у绡?001_014.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/001_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "23183f66e154ce18b82e6befac2e42ce": {
     "text": "Urbanization has changed people's way of life.",
-    "file": "sentence/language_sense_sentences/澶у绡?001_015.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/001_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "41db6ad708da569f0a5a5b76fe8b7d02": {
     "text": "Raising public awareness is the first step in solving social problems.",
-    "file": "sentence/language_sense_sentences/澶у绡?001_017.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/001_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "75ca008b8a3b0bbb775ef725a667e67a": {
     "text": "Everyone should keep an open mind toward different viewpoints.",
-    "file": "sentence/language_sense_sentences/澶у绡?001_016.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/001_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "01a5e71c96023df1dfdc93af2a8d313e": {
     "text": "Every citizen has both the right and the duty to participate in public affairs.",
-    "file": "sentence/language_sense_sentences/澶у绡?001_018.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/001_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "1b9901d063ab2d384f4910b9fc8c3d3b": {
     "text": "I want to find an internship related to my major.",
-    "file": "sentence/language_sense_sentences/澶у绡?002_000.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/002_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6f19788aa24f5d7ce4a563f04e5eeded": {
     "text": "You have rich internship experience on your resume.",
-    "file": "sentence/language_sense_sentences/澶у绡?002_001.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/002_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "239c124b797732927c23265739e516da": {
     "text": "You should pay attention to your appearance during an interview.",
-    "file": "sentence/language_sense_sentences/澶у绡?002_002.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/002_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "948fa175ac0215727ef0e0d5f917325d": {
     "text": "Career planning should start from college.",
-    "file": "sentence/language_sense_sentences/澶у绡?002_003.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/002_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "ab7f314a303b6128051c95a7470f1687": {
     "text": "Do you think it's worthwhile to pursue a master's degree?",
-    "file": "sentence/language_sense_sentences/澶у绡?002_004.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/002_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "46ccb47f60da866dcfd0911afb4eb472": {
     "text": "We need to find a balance between economic development and environmental protection.",
-    "file": "sentence/language_sense_sentences/澶у绡?001_019.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/001_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "0ce752d6c7b9841ed269e8c83fc7214b": {
     "text": "The first job has a great impact on future career development.",
-    "file": "sentence/language_sense_sentences/澶у绡?002_005.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/002_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "cc7c06afe78e224ffb057ce8058924c7": {
     "text": "You need to continuously improve your core competitiveness.",
-    "file": "sentence/language_sense_sentences/澶у绡?002_008.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/002_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "1f8b9a037f1a3cfb98bff237da63320b": {
     "text": "An internship is a great opportunity to apply theory to practice.",
-    "file": "sentence/language_sense_sentences/澶у绡?002_009.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/002_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "aabb7abd189156293941fdb014319d01": {
     "text": "The competitive job market puts a lot of pressure on graduates.",
-    "file": "sentence/language_sense_sentences/澶у绡?002_007.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/002_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "a82a92d824e6fee06621e620f43409fa": {
     "text": "Soft skills are equally important in the workplace.",
-    "file": "sentence/language_sense_sentences/澶у绡?002_010.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/002_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "65f6c9fe880330cc907d64f327135801": {
     "text": "He found a job at a multinational company.",
-    "file": "sentence/language_sense_sentences/澶у绡?002_006.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/002_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c5e43592eb03be18b2ddc5daa4c6ad8e": {
     "text": "She entered that company through campus recruitment.",
-    "file": "sentence/language_sense_sentences/澶у绡?002_011.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/002_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "dc34738739d2e56f1f9f1974381f138f": {
     "text": "What are your plans for future career development?",
-    "file": "sentence/language_sense_sentences/澶у绡?002_012.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/002_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "643c0ab92ebc078af991dd7ef6a8e84e": {
     "text": "Good communication skills are essential in any industry.",
-    "file": "sentence/language_sense_sentences/澶у绡?002_013.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/002_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "ce4c942bad716f1c9d0f561a86b54ac7": {
     "text": "He decided to quit his job to pursue his dream.",
-    "file": "sentence/language_sense_sentences/澶у绡?002_014.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/002_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6d7b4200299219677197647b0552a57c": {
     "text": "Building a network is very helpful for career development.",
-    "file": "sentence/language_sense_sentences/澶у绡?002_016.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/002_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "7d1682802d71078fac535cbeda0d39ce": {
     "text": "Lifelong learning is the key to coping with career changes.",
-    "file": "sentence/language_sense_sentences/澶у绡?002_015.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/002_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "799022c0af83e9a85984c511afac28cf": {
     "text": "Internship experience can help you clarify your career direction.",
-    "file": "sentence/language_sense_sentences/澶у绡?002_017.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/002_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "90fc6dfe9b82603566eb473d101526f1": {
     "text": "Highlight your achievements and skills in your resume.",
-    "file": "sentence/language_sense_sentences/澶у绡?002_018.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/002_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b4230d6104ca14eff9c1d8e3fcbb9297": {
     "text": "The definition of success varies from person to person.",
-    "file": "sentence/language_sense_sentences/澶у绡?002_019.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/002_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "e5609fbc338e1c1cd68df1efdef21ef8": {
     "text": "There are great differences between Chinese and Western cultures.",
-    "file": "sentence/language_sense_sentences/澶у绡?003_000.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/003_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "115cc700f2854ed28de87564481c3275": {
     "text": "In some countries, tipping is a convention in the service industry.",
-    "file": "sentence/language_sense_sentences/澶у绡?003_001.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/003_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "2920595b12a174adb0465ba5f52ba2d7": {
     "text": "Direct refusal is considered impolite in some cultures.",
-    "file": "sentence/language_sense_sentences/澶у绡?003_003.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/003_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "37361b9675ef54303687124f50eeddd0": {
     "text": "Cultural clashes can lead to misunderstandings.",
-    "file": "sentence/language_sense_sentences/澶у绡?003_004.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/003_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "2c58c36fa5bd4c933dfa36e7eba7eb4d": {
     "text": "People express politeness differently in different cultural contexts.",
-    "file": "sentence/language_sense_sentences/澶у绡?003_002.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/003_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "37f800a1ef6ca1b6119a393930929394": {
     "text": "Understanding cultural differences helps with cross-cultural communication.",
-    "file": "sentence/language_sense_sentences/澶у绡?003_005.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/003_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f720c2df199f82473181a4a8e25ae45b": {
     "text": "Westerners place more emphasis on personal privacy.",
-    "file": "sentence/language_sense_sentences/澶у绡?003_007.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/003_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "87dd05991a917690bbaa4463ef09b750": {
     "text": "In China, elderly people usually receive more respect.",
-    "file": "sentence/language_sense_sentences/澶у绡?003_006.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/003_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "80f209f99afe92af2691ef7b9c278f74": {
     "text": "Different cultures have different wedding customs.",
-    "file": "sentence/language_sense_sentences/澶у绡?003_010.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/003_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "28c6ac5b33444f3d97ea3f6df7cd4274": {
     "text": "Cultural diversity makes the world more colorful and rich.",
-    "file": "sentence/language_sense_sentences/澶у绡?003_011.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/003_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "95413247f1ea4463248ef3f117d68751": {
     "text": "In some cultures, punctuality is considered a very important quality.",
-    "file": "sentence/language_sense_sentences/澶у绡?003_008.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/003_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "28a4ec59c13f05e495d6d5a4d4e8c737": {
     "text": "Chinese people are accustomed to using chopsticks, while Westerners use knives and forks.",
-    "file": "sentence/language_sense_sentences/澶у绡?003_009.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/003_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f45144c822ce3979e9e088653764184a": {
     "text": "We should embrace other cultures while preserving our own.",
-    "file": "sentence/language_sense_sentences/澶у绡?003_012.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/003_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "3502881e64ab5d20b59ae1bfebcd7fe4": {
     "text": "Language is the carrier of culture.",
-    "file": "sentence/language_sense_sentences/澶у绡?003_013.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/003_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "574d142d59d0848785cbe87aa94027e5": {
     "text": "Misunderstandings often stem from cultural differences.",
-    "file": "sentence/language_sense_sentences/澶у绡?003_015.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/003_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "37fe3fd7bcfc3686fba8f8d5fcada7ef": {
     "text": "It took him a while to adapt to the local culture.",
-    "file": "sentence/language_sense_sentences/澶у绡?003_016.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/003_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "3464bcc82f1d504b175b7a14742a7ea6": {
     "text": "Globalization promotes cultural exchange but also brings challenges.",
-    "file": "sentence/language_sense_sentences/澶у绡?003_017.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/003_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "55ab939429606d35e0a8a9f3b4cad186": {
     "text": "We should respect the cultural traditions of every nation.",
-    "file": "sentence/language_sense_sentences/澶у绡?003_018.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/003_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d5c0d92e43142255217e43e33b1be52f": {
     "text": "Cross-cultural competence is increasingly important in today's globalized world.",
-    "file": "sentence/language_sense_sentences/澶у绡?003_019.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/003_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "7452745094f94c80ed24d8d55c586390": {
     "text": "Sustainable development is an important issue facing today's world.",
-    "file": "sentence/language_sense_sentences/澶у绡?004_000.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/004_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "3407124b1607753a3e082fadb2717a0c": {
     "text": "Carbon emissions have caused global warming.",
-    "file": "sentence/language_sense_sentences/澶у绡?004_001.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/004_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f7c9fdf1f0d680413b060c3bfac12bc8": {
     "text": "Governments should strengthen the enforcement of environmental regulations.",
-    "file": "sentence/language_sense_sentences/澶у绡?004_002.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/004_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "a0465fdda5a665a445c44034ef5f5ac2": {
     "text": "Renewable energy will play an increasingly important role in the future.",
-    "file": "sentence/language_sense_sentences/澶у绡?004_003.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/004_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "2b0b7fb790509a57b9377ef0a1887d1c": {
     "text": "Each of us can start with small daily actions to protect the environment.",
-    "file": "sentence/language_sense_sentences/澶у绡?004_004.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/004_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c38f5ffab61a8536b446c8955b534078": {
     "text": "Excessive packaging has caused serious waste of resources.",
-    "file": "sentence/language_sense_sentences/澶у绡?004_005.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/004_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b1b29fd86f08ff462661cbbc07100697": {
     "text": "Green commuting helps reduce carbon footprints.",
-    "file": "sentence/language_sense_sentences/澶у绡?004_006.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/004_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "eb52b3afbd295ad007d497959074a033": {
     "text": "Learning a foreign language is also learning a culture.",
-    "file": "sentence/language_sense_sentences/澶у绡?003_014.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/003_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "77dfc59ffd782eec73daf373654debc6": {
     "text": "Deforestation is accelerating global warming.",
-    "file": "sentence/language_sense_sentences/澶у绡?004_007.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/004_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "669deba571e9b376e16bd7dacef24c19": {
     "text": "Many enterprises have begun to focus on green production.",
-    "file": "sentence/language_sense_sentences/澶у绡?004_008.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/004_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "407fd99d23e8496df40a335a790e43d4": {
     "text": "Once the ecological balance is disrupted, the consequences are unimaginable.",
-    "file": "sentence/language_sense_sentences/澶у绡?004_009.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/004_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "cee617dff578d446d5b613160ce517a8": {
     "text": "Reducing the use of disposable products is urgent.",
-    "file": "sentence/language_sense_sentences/澶у绡?004_011.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/004_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "e328c46224ebe54901873e0f43e6915d": {
     "text": "China has set goals for carbon peak and carbon neutrality.",
-    "file": "sentence/language_sense_sentences/澶у绡?004_010.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/004_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "ebb23ab157c851b252dda7ba3b4186cd": {
     "text": "Water pollution is particularly serious in developing countries.",
-    "file": "sentence/language_sense_sentences/澶у绡?004_012.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/004_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6f1f9a07d4ee1157ed2e0906884613bf": {
     "text": "Urban greening can improve air quality.",
-    "file": "sentence/language_sense_sentences/澶у绡?004_014.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/004_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "e68695255ff50482a09304795a54e570": {
     "text": "Sustainable development requires the coordination of economy, society, and environment.",
-    "file": "sentence/language_sense_sentences/澶у绡?004_013.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/004_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "8ce32bef9e5fe5c383e0f2982911a202": {
     "text": "Public participation is a key factor in promoting environmental protection.",
-    "file": "sentence/language_sense_sentences/澶у绡?004_015.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/004_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "94323d1ca248d28c5e5310f0692c3cad": {
     "text": "We should advocate a low-carbon lifestyle.",
-    "file": "sentence/language_sense_sentences/澶у绡?004_017.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/004_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "87b951e4e89bad9b48a42d2bc8322a63": {
     "text": "The development of new energy vehicles helps reduce exhaust emissions.",
-    "file": "sentence/language_sense_sentences/澶у绡?004_016.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/004_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "fb3d625325c473ed80139c4acce320b8": {
     "text": "Protecting biodiversity is crucial for the health of ecosystems.",
-    "file": "sentence/language_sense_sentences/澶у绡?004_018.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/004_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c5b9080b62fac35bfdf4ac0e4cc11acb": {
     "text": "Today's actions determine the future of our descendants.",
-    "file": "sentence/language_sense_sentences/澶у绡?004_019.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/004_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "3b998a8677344b0e23bb931488471e14": {
     "text": "Many young people choose to start their own businesses.",
-    "file": "sentence/language_sense_sentences/澶у绡?005_002.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/005_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "fa675350cf8f3eb707b3b6eb72f4caa8": {
     "text": "Inflation has led to continuously rising prices.",
-    "file": "sentence/language_sense_sentences/澶у绡?005_001.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/005_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "5981f3796cdd880414e5be4ac0fc9891": {
     "text": "In recent years, China's e-commerce has developed rapidly.",
-    "file": "sentence/language_sense_sentences/澶у绡?005_000.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/005_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "953f29c7580580a9d3c58a147d5b0184": {
     "text": "Artificial intelligence is reshaping traditional industries.",
-    "file": "sentence/language_sense_sentences/澶у绡?005_004.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/005_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "8d85d58a77a1c33e09a13b8452673d5a": {
     "text": "This company's market value has already exceeded 100 billion dollars.",
-    "file": "sentence/language_sense_sentences/澶у绡?005_003.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/005_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "7b88e006cfd1241288f4be7cffba56ac": {
     "text": "Consumer demands are constantly changing.",
-    "file": "sentence/language_sense_sentences/澶у绡?005_005.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/005_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "ea52b1c6d4ee26e806bdb992fbdf77ff": {
     "text": "International trade friction has affected the global supply chain.",
-    "file": "sentence/language_sense_sentences/澶у绡?005_006.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/005_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "0fd4c2959da070de7a9115ebcbd5a310": {
     "text": "The sharing economy has changed people's consumption habits.",
-    "file": "sentence/language_sense_sentences/澶у绡?005_009.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/005_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c33ea3cc04cb5ccdaa94357a68c4223e": {
     "text": "Innovation is the core driving force of business development.",
-    "file": "sentence/language_sense_sentences/澶у绡?005_007.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/005_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "f5009ae2c15aa0a0bfb62bf1303ae504": {
     "text": "Sound investment requires a clear understanding of risks.",
-    "file": "sentence/language_sense_sentences/澶у绡?005_008.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/005_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "de15cb6e7e394dc74b50edde65f07b27": {
     "text": "This business plan is written in great detail.",
-    "file": "sentence/language_sense_sentences/澶у绡?005_010.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/005_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "85b7174a629823e084b46a6170972e8c": {
     "text": "His startup project received angel investment.",
-    "file": "sentence/language_sense_sentences/澶у绡?005_011.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/005_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "56a11314c0aa0af39d08580235136075": {
     "text": "Digital transformation is an inevitable choice for many traditional enterprises.",
-    "file": "sentence/language_sense_sentences/澶у绡?005_014.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/005_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "da80d0b2662b53179f044a7f7e2a72d4": {
     "text": "Brand building requires long-term investment and accumulation.",
-    "file": "sentence/language_sense_sentences/澶у绡?005_012.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/005_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "450f9a5f1c1662f833902322a860ff18": {
     "text": "Corporate social responsibility is receiving more and more attention.",
-    "file": "sentence/language_sense_sentences/澶у绡?005_013.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/005_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "cacf5ff265f849fbf80624fe316ce288": {
     "text": "Marketing strategies are crucial for product promotion.",
-    "file": "sentence/language_sense_sentences/澶у绡?005_015.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/005_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "afb14226400b6e88fd0e785973b67528": {
     "text": "Teamwork is an important factor in business success.",
-    "file": "sentence/language_sense_sentences/澶у绡?005_016.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/005_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "830ec5ef45ad9fc0730f63e66ec3a571": {
     "text": "We need to analyze the characteristics of the target customer group.",
-    "file": "sentence/language_sense_sentences/澶у绡?005_018.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/005_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "22e5580ccc9a65dc3f5ba19d4bdd9556": {
     "text": "This market has enormous growth potential.",
-    "file": "sentence/language_sense_sentences/澶у绡?005_017.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/005_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "04a40654561ad90fd31caee66e7fd85d": {
     "text": "Operating with integrity is the foundation for long-term business development.",
-    "file": "sentence/language_sense_sentences/澶у绡?005_019.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/005_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "27dd4d5c4abfa3bf71d458881f1f2d42": {
     "text": "What exactly is happiness? Everyone has a different understanding.",
-    "file": "sentence/language_sense_sentences/澶у绡?006_000.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/006_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "e20159373f6c596701c1ea4a8758c5ff": {
     "text": "The meaning of life lies not in how many years you live, but in how you spend them.",
-    "file": "sentence/language_sense_sentences/澶у绡?006_001.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/006_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "befeca6d5e6f7bedc497060d42634f93": {
     "text": "We should not judge people by their appearance.",
-    "file": "sentence/language_sense_sentences/澶у绡?006_003.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/006_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d7fcb368ea8a532890881a79b07f73f9": {
     "text": "Failure is not terrible; what's terrible is giving up trying.",
-    "file": "sentence/language_sense_sentences/澶у绡?006_002.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/006_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "12acc343982d21391f32f691b6fd1993": {
-    "text": "Knowledge changes destiny 鈥?this saying still holds true today.",
-    "file": "sentence/language_sense_sentences/澶у绡?006_004.ogg",
+    "text": "Knowledge changes destiny — this saying still holds true today.",
+    "file": "sentence/language_sense_sentences/大学篇/006_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b4724416cb9afff8feaa9e5d065399fb": {
     "text": "True courage is not backing down when facing difficulties.",
-    "file": "sentence/language_sense_sentences/澶у绡?006_005.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/006_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "7663198ab5089240c0f8a6b1646752ac": {
     "text": "Everyone should have the ability to think independently.",
-    "file": "sentence/language_sense_sentences/澶у绡?006_007.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/006_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "67c630d99e321661e4489cabc106b32c": {
     "text": "Putting yourself in others' shoes can help us better understand them.",
-    "file": "sentence/language_sense_sentences/澶у绡?006_006.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/006_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "1bba7fa67b103903434fa772e29d3e2c": {
     "text": "Experience tells us that things are often not as simple as they seem.",
-    "file": "sentence/language_sense_sentences/澶у绡?006_008.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/006_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "465fb3bb2e3038cefc82a5d210d76149": {
     "text": "Knowing yourself is one of life's most important subjects.",
-    "file": "sentence/language_sense_sentences/澶у绡?006_009.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/006_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "493b252b30a957648460a19c368dc366": {
     "text": "A person's value should not be measured solely by money.",
-    "file": "sentence/language_sense_sentences/澶у绡?006_010.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/006_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "7de670fd73cb17a3f883ccc7ba22764e": {
     "text": "Tolerance is a virtue.",
-    "file": "sentence/language_sense_sentences/澶у绡?006_013.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/006_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "872d01f276353351b09d14c444149e75": {
-    "text": "Time is the fairest 鈥?everyone has only 24 hours a day.",
-    "file": "sentence/language_sense_sentences/澶у绡?006_012.ogg",
+    "text": "Time is the fairest — everyone has only 24 hours a day.",
+    "file": "sentence/language_sense_sentences/大学篇/006_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "44439ff35231c6a0ef5245ec184ec0f7": {
     "text": "There is a fine line between confidence and arrogance.",
-    "file": "sentence/language_sense_sentences/澶у绡?006_011.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/006_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "27c1fdf299d42a2a2c58d183c9eb1a25": {
     "text": "True success lies not in how much you have, but in how much you contribute.",
-    "file": "sentence/language_sense_sentences/澶у绡?006_014.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/006_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "1344c2d791f1edeb3ef2908c08bd15a6": {
     "text": "True knowledge comes from practice.",
-    "file": "sentence/language_sense_sentences/澶у绡?006_015.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/006_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "ca8ee72206897cd394f30f0bb2cde4d7": {
     "text": "The power of habit is enormous.",
-    "file": "sentence/language_sense_sentences/澶у绡?006_016.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/006_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b9026296cce274001aada7649a6a6615": {
     "text": "We should not be afraid of making mistakes, but learn from them.",
-    "file": "sentence/language_sense_sentences/澶у绡?006_017.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/006_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "51cefa43e4ae869f0e4c25e0e44b8b44": {
     "text": "Being content and always happy is a kind of wisdom.",
-    "file": "sentence/language_sense_sentences/澶у绡?006_018.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/006_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "234dcf67ecfe323a25bd4080e1a0314b": {
     "text": "Maintaining curiosity is the driving force for continuous learning.",
-    "file": "sentence/language_sense_sentences/澶у绡?006_019.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/006_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "7149f19e85d36e86b8ae863df25acdb2": {
     "text": "Innovation is an important force driving social progress.",
-    "file": "sentence/language_sense_sentences/澶у绡?007_000.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/007_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6a770aece28c5153d9bad7d6b102ef1b": {
     "text": "His entrepreneurial story has inspired many young people.",
-    "file": "sentence/language_sense_sentences/澶у绡?007_001.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/007_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "023a5122f62b97e255c06f63622d00f5": {
     "text": "Entrepreneurship requires not only courage but also careful planning.",
-    "file": "sentence/language_sense_sentences/澶у绡?007_002.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/007_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "127ffd6ba2ca1906d91996527cfbf611": {
     "text": "Failure is an inevitable part of the entrepreneurial process.",
-    "file": "sentence/language_sense_sentences/澶у绡?007_003.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/007_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "e91f12464765e9d7eb4ed3058dc1ae7c": {
     "text": "The market prospect of this project is very promising.",
-    "file": "sentence/language_sense_sentences/澶у绡?007_004.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/007_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b4da95ca82764fc67ab5084f7f295558": {
     "text": "Their product won a major award for its innovative design.",
-    "file": "sentence/language_sense_sentences/澶у绡?007_005.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/007_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "a17c3267012a747cdb67ac3456e8ceab": {
     "text": "Many great companies started in a garage.",
-    "file": "sentence/language_sense_sentences/澶у绡?007_006.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/007_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "403d8d379eec43fbc43e21ea5ddcb0ad": {
     "text": "Creative thinking can be cultivated.",
-    "file": "sentence/language_sense_sentences/澶у绡?007_007.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/007_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6942bf662c176ba5c77a79d7006b41cf": {
     "text": "Venture capital provides financial support for startups.",
-    "file": "sentence/language_sense_sentences/澶у绡?007_009.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/007_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "7b90fb13b32d92a71443d187c0e56302": {
     "text": "Finding the real market demand is the first step of entrepreneurship.",
-    "file": "sentence/language_sense_sentences/澶у绡?007_008.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/007_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "ccd7506e30f5783633d341f3217a2ac8": {
     "text": "A good team is more important than a good idea.",
-    "file": "sentence/language_sense_sentences/澶у绡?007_010.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/007_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "cb6e4ae37cb0bc0c385751f608f988a2": {
     "text": "User experience should be at the core of product design.",
-    "file": "sentence/language_sense_sentences/澶у绡?007_011.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/007_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d26a98b401ad61741d8f72cbdcb7c812": {
     "text": "He quit his high-paying job to pursue his entrepreneurial dream.",
-    "file": "sentence/language_sense_sentences/澶у绡?007_013.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/007_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d2eb4e3a5177de909d3d341b0070c499": {
     "text": "Technological innovation has changed the landscape of the entire industry.",
-    "file": "sentence/language_sense_sentences/澶у绡?007_012.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/007_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "3fe3454c30b1dafb19e69ab016c82cd9": {
     "text": "The path of entrepreneurship is full of uncertainty.",
-    "file": "sentence/language_sense_sentences/澶у绡?007_014.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/007_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "2516cf1983d8f32c87e8d39e4c6400f0": {
     "text": "Patent protection is an important safeguard for innovative enterprises.",
-    "file": "sentence/language_sense_sentences/澶у绡?007_015.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/007_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "e993f9d0e12f52b9ae13e99ba68f4321": {
     "text": "A good business model should be sustainable.",
-    "file": "sentence/language_sense_sentences/澶у绡?007_017.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/007_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "2afaad1a92784acc186f9a03d359daac": {
     "text": "Entrepreneurship requires continuous learning and adapting to change.",
-    "file": "sentence/language_sense_sentences/澶у绡?007_016.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/007_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "639d65f8c3b7f34fc1d8562a93c4863f": {
     "text": "Their product has already entered the overseas market.",
-    "file": "sentence/language_sense_sentences/澶у绡?007_018.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/007_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "54f61326401dc4054f98144a47e48796": {
-    "text": "Don't be afraid to be different 鈥?that may be your advantage.",
-    "file": "sentence/language_sense_sentences/澶у绡?007_019.ogg",
+    "text": "Don't be afraid to be different — that may be your advantage.",
+    "file": "sentence/language_sense_sentences/大学篇/007_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d86850e0579e24152d36e6f7ecd69b3c": {
     "text": "Globalization has made connections between countries closer.",
-    "file": "sentence/language_sense_sentences/澶у绡?008_000.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/008_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6f7e88d124d4cb95cba27abaf95b8dfa": {
     "text": "Mastering English is a bridge to communicate with the world.",
-    "file": "sentence/language_sense_sentences/澶у绡?008_001.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/008_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d52f42d1eba51c6a90f7e0d63dc14850": {
     "text": "Different political systems reflect different historical and cultural backgrounds.",
-    "file": "sentence/language_sense_sentences/澶у绡?008_003.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/008_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "13ce6b52ea7b9dea2ca45a32ca048a12": {
     "text": "International cooperation is crucial in addressing global challenges.",
-    "file": "sentence/language_sense_sentences/澶у绡?008_002.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/008_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "8f01fcf0535fef71a812d2471d1f9e0f": {
     "text": "The Belt and Road Initiative has promoted the development of countries along the route.",
-    "file": "sentence/language_sense_sentences/澶у绡?008_004.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/008_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "12d2ac798ac8353518c07152bb6f4414": {
     "text": "China is playing an increasingly important role in international affairs.",
-    "file": "sentence/language_sense_sentences/澶у绡?008_005.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/008_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6a7601ad0e747a56d01af3d1549ed515": {
     "text": "We should view the world with an open mind.",
-    "file": "sentence/language_sense_sentences/澶у绡?008_006.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/008_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "76495d19b128611bf85babf6408be0ef": {
     "text": "Studying abroad is a great way to broaden one's horizons.",
-    "file": "sentence/language_sense_sentences/澶у绡?008_007.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/008_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "7484c8fe2e454fa6ffb3871cde3e78aa": {
     "text": "Climate change is a challenge facing all of humanity.",
-    "file": "sentence/language_sense_sentences/澶у绡?008_008.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/008_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "4bafe3356d482249a37b3450cda4ae42": {
     "text": "Developing countries need more technical assistance.",
-    "file": "sentence/language_sense_sentences/澶у绡?008_010.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/008_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "4f918afc7c364d284cd7980035c7d1f4": {
     "text": "Multilateralism is an effective way to address global issues.",
-    "file": "sentence/language_sense_sentences/澶у绡?008_009.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/008_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "b11049663048fae71a35e1902f94418f": {
     "text": "International organizations play an important role in maintaining world peace.",
-    "file": "sentence/language_sense_sentences/澶у绡?008_011.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/008_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "de44d630fea8024b7748aadec4e491cb": {
     "text": "Learning from the experience of other countries helps one's own development.",
-    "file": "sentence/language_sense_sentences/澶у绡?008_012.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/008_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "780a18496fe6f967e924b53ca270936b": {
     "text": "Peace and development are the themes of the current era.",
-    "file": "sentence/language_sense_sentences/澶у绡?008_013.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/008_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c6ce9f9c8bf64bc3279ba2a5f63304fc": {
     "text": "In international exchange, respect is the premise of cooperation.",
-    "file": "sentence/language_sense_sentences/澶у绡?008_014.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/008_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c6f577eee981d0d9c399e207f07fe142": {
     "text": "Global public health security requires cooperation among all countries.",
-    "file": "sentence/language_sense_sentences/澶у绡?008_016.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/008_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "d5fe985d1b75e8a740cdeece66d4b713": {
     "text": "Dialogue between different civilizations helps eliminate prejudice.",
-    "file": "sentence/language_sense_sentences/澶у绡?008_015.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/008_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "3b05e557f507cddcc6fff91cf12dc92c": {
     "text": "We should build a community with a shared future for mankind.",
-    "file": "sentence/language_sense_sentences/澶у绡?008_017.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/008_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "98d5cde0fe7f774bcc1880b48c77b336": {
     "text": "The Internet has turned the world into a global village.",
-    "file": "sentence/language_sense_sentences/澶у绡?008_018.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/008_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "0e31ad7b9255a736c1f580fb75c125b1": {
     "text": "Learning to manage stress is an important lesson in college life.",
-    "file": "sentence/language_sense_sentences/澶у绡?009_001.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/009_001.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "67dfb3122921df6379dd0c488bae5ff1": {
     "text": "Mental health is as important as physical health.",
-    "file": "sentence/language_sense_sentences/澶у绡?009_000.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/009_000.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "3df32890f9d9d2b29796395d74141d88": {
     "text": "Anxiety and depression should not be ignored.",
-    "file": "sentence/language_sense_sentences/澶у绡?009_002.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/009_002.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6c9c3dc253d636f87a73a9189631f36d": {
     "text": "Understanding the diversity of the world is a required course for our generation.",
-    "file": "sentence/language_sense_sentences/澶у绡?008_019.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/008_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "974292366e432554f5de60e48ae58f5c": {
     "text": "If you feel troubled, it might help to talk to someone.",
-    "file": "sentence/language_sense_sentences/澶у绡?009_003.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/009_003.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "ea8eb139b95365d4a9bec1e0db838153": {
     "text": "Everyone goes through low periods.",
-    "file": "sentence/language_sense_sentences/澶у绡?009_004.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/009_004.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "2cf0c8aaedc8e246f05e37611c04d4d1": {
     "text": "Getting enough sleep helps relieve anxiety.",
-    "file": "sentence/language_sense_sentences/澶у绡?009_005.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/009_005.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "47b87b8e440db310c9273b4eacf1b8ff": {
     "text": "Self-acceptance is the first step toward mental health.",
-    "file": "sentence/language_sense_sentences/澶у绡?009_006.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/009_006.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "1fcf98c512fa26fbb93d8d061b3bb3aa": {
     "text": "Psychological counseling should not be seen as something shameful.",
-    "file": "sentence/language_sense_sentences/澶у绡?009_007.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/009_007.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "fcaa7775d9fb685f709525a5f4da5294": {
     "text": "Don't always compare yourself with others.",
-    "file": "sentence/language_sense_sentences/澶у绡?009_009.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/009_009.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "856fa03eaf2f975f2e4af4cd90ca5759": {
     "text": "Moderate exercise can improve mood.",
-    "file": "sentence/language_sense_sentences/澶у绡?009_008.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/009_008.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "12a7b25b02eba60440cc743c75a6a9f2": {
     "text": "It's important to learn to say 'it's okay' to yourself.",
-    "file": "sentence/language_sense_sentences/澶у绡?009_010.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/009_010.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "6717e9149db6b7171c30e0b5147d5f16": {
     "text": "The perfect life on social media is not real.",
-    "file": "sentence/language_sense_sentences/澶у绡?009_011.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/009_011.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "c45f556be083604df7247c3887e5d328": {
     "text": "The mental health center at the university can provide help.",
-    "file": "sentence/language_sense_sentences/澶у绡?009_012.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/009_012.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "37bfdf6f91fff5ffc5a6307b3ee3e963": {
     "text": "The excessive pursuit of perfection can put a lot of pressure on yourself.",
-    "file": "sentence/language_sense_sentences/澶у绡?009_013.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/009_013.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "8eba228d1a33c5e0954706bda64d6149": {
     "text": "The companionship of good friends is a powerful force.",
-    "file": "sentence/language_sense_sentences/澶у绡?009_014.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/009_014.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "5f8343d12c02fc8c1addce63f1649dd6": {
     "text": "Developing hobbies can help reduce stress.",
-    "file": "sentence/language_sense_sentences/澶у绡?009_015.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/009_015.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "71264b2fc0312f7626f56a4c585c5afe": {
     "text": "When you feel overwhelmed, please seek professional help.",
-    "file": "sentence/language_sense_sentences/澶у绡?009_016.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/009_016.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "3e6bbfd3a45c735f9e344f523859f98b": {
     "text": "Taking care of your inner self is a responsibility.",
-    "file": "sentence/language_sense_sentences/澶у绡?009_017.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/009_017.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "7755fdebc79b87967a04269317b792c7": {
     "text": "Stepping out of your comfort zone takes courage, but it's also the beginning of growth.",
-    "file": "sentence/language_sense_sentences/澶у绡?009_018.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/009_018.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   },
   "a6d5271c86c28725e1c5f0a7420646e6": {
     "text": "You don't need to face all the difficulties alone.",
-    "file": "sentence/language_sense_sentences/澶у绡?009_019.ogg",
+    "file": "sentence/language_sense_sentences/大学篇/009_019.ogg",
     "book": "language_sense_sentences",
     "category": "sentence"
   }
