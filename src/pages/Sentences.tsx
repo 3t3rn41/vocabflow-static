@@ -953,7 +953,6 @@ const slotsContainerRef = useRef<HTMLDivElement>(null);
 
           {/* 中文句子 */}
           <div className="text-center space-y-2 mb-4 md:mb-6">
-            <p className="text-xs text-slate-400 font-medium">🇨🇳 中文</p>
             <p className="text-xl md:text-2xl font-medium">{currentDialogue.cn}</p>
           </div>
 
