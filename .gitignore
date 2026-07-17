@@ -12,8 +12,8 @@ dist
 dist-ssr
 *.local
 
-# Generated TTS audio cache (regenerated via scripts/generate_tts_cache.py)
-public/audio
+# Audio files are committed (OGG compressed, ~100MB total for static deployment)
+# public/audio
 
 # Python
 __pycache__
