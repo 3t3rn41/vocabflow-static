@@ -58,7 +58,7 @@ export function FlashCard({ item, flipped, onFlip }: FlashCardProps) {
             {meanings.length > 0 && (
               <div className="space-y-1">
                 <p className="text-xs text-slate-400 font-medium">
-                  {item.pos ? `📖 ${item.pos}` : '📖 释义'}
+                  {item.pos ? item.pos : '释义'}
                 </p>
                 {meanings.map((m, i) => (
                   <p key={i} className="text-base text-slate-700 dark:text-slate-200 pl-1">

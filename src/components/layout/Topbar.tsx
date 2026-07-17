@@ -39,10 +39,10 @@ export function Topbar() {
         >
           ☰
         </button>
-        <span className="md:hidden font-bold text-brand-600 text-lg">VocabFlow</span>
+        <span className="md:hidden font-bold text-brand-600 text-lg">涓词 VocabFlow</span>
         {bookMeta && (
           <span className="hidden sm:inline text-xs text-slate-400 truncate max-w-[160px]">
-            📖 {bookMeta.title}
+            {bookMeta.title}
           </span>
         )}
       </div>
@@ -52,7 +52,7 @@ export function Topbar() {
           className="p-1.5 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-700 transition text-lg leading-none"
           title={isDarkActive ? '切换为浅色' : '切换为深色'}
         >
-          {isDarkActive ? '🌙' : '☀️'}
+          {isDarkActive ? 'Dark' : 'Light'}
         </button>
       </div>
     </header>

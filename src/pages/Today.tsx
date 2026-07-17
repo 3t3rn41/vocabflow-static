@@ -119,7 +119,7 @@ export function Today() {
           {new Date().toLocaleDateString('zh-CN', { weekday: 'long', month: 'long', day: 'numeric' })}
         </p>
         {bookMeta && (
-          <p className="text-sm text-brand-600 mt-1">📖 {bookMeta.title}</p>
+          <p className="text-sm text-brand-600 mt-1">{bookMeta.title}</p>
         )}
       </div>
 
@@ -155,7 +155,7 @@ export function Today() {
                 onClick={() => navigate('/sentences?review=unmastered')}
                 className="text-orange-500 ring-2 ring-orange-300 dark:ring-orange-700"
               >
-                🔄 复习 {unmasteredCount}
+                复习 {unmasteredCount}
               </Button>
             )}
           </div>
@@ -189,7 +189,7 @@ export function Today() {
               disabled={totalToday === 0 && progress.finishedToday > 0}
             >
               {totalToday === 0 && progress.finishedToday > 0
-                ? '今日已完成 🎉'
+                ? '今日已完成'
                 : progress.finishedToday > 0
                   ? '继续学习'
                   : '开始学习'}
@@ -199,7 +199,7 @@ export function Today() {
               size="lg"
               onClick={() => navigate('/dictation')}
             >
-              📝 听写
+              听写
             </Button>
           </div>
         </div>

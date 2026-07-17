@@ -17,14 +17,14 @@ const RETENTION_OPTIONS = [0.85, 0.9, 0.92, 0.95];
    词书切换弹窗
    ================================================================ */
 
-const BOOK_COVERS: Record<string, { gradient: string; icon: string }> = {
-  zhongkao: { gradient: 'from-amber-400 via-orange-500 to-red-500', icon: '📘' },
-  gaokao: { gradient: 'from-rose-400 via-pink-500 to-purple-500', icon: '🎓' },
-  cet4: { gradient: 'from-green-400 via-emerald-500 to-teal-500', icon: '📗' },
-  cet6: { gradient: 'from-violet-400 via-purple-500 to-indigo-500', icon: '📕' },
-  ielts: { gradient: 'from-blue-400 via-indigo-500 to-violet-500', icon: '🌍' },
-  'ielts-sentences': { gradient: 'from-emerald-400 via-teal-500 to-cyan-500', icon: '💬' },
-  'language-sense': { gradient: 'from-fuchsia-400 via-pink-500 to-rose-500', icon: '✨' },
+const BOOK_COVERS: Record<string, { gradient: string }> = {
+  zhongkao: { gradient: 'from-amber-400 via-orange-500 to-red-500' },
+  gaokao: { gradient: 'from-rose-400 via-pink-500 to-purple-500' },
+  cet4: { gradient: 'from-green-400 via-emerald-500 to-teal-500' },
+  cet6: { gradient: 'from-violet-400 via-purple-500 to-indigo-500' },
+  ielts: { gradient: 'from-blue-400 via-indigo-500 to-violet-500' },
+  'ielts-sentences': { gradient: 'from-emerald-400 via-teal-500 to-cyan-500' },
+  'language-sense': { gradient: 'from-fuchsia-400 via-pink-500 to-rose-500' },
 };
 
 function kindLabel(kind: BookKind): string {
@@ -46,7 +46,8 @@ interface BookSwitcherModalProps {
 function BookSwitcherModal({ activeBookId, onSelect, onClose }: BookSwitcherModalProps) {
   return (
     <div
-      className="fixed inset-0 z-50 flex items-end md:items-center justify-center p-0 md:p-4 bg-black/40 backdrop-blur-sm animate-fadeIn"
+      className="fixed inset-0 top-0 left-0 right-0 bottom-0 z-[100] flex items-end md:items-center justify-center p-0 md:p-4 bg-black/40 backdrop-blur-sm animate-fadeIn"
+      style={{ position: 'fixed', top: 0, left: 0, right: 0, bottom: 0 }}
       onClick={onClose}
     >
       <div
@@ -88,10 +89,10 @@ function BookSwitcherModal({ activeBookId, onSelect, onClose }: BookSwitcherModa
               >
                 {/* 封面缩略图 */}
                 <div className={clsx(
-                  'flex-shrink-0 w-14 h-14 rounded-xl bg-gradient-to-br flex items-center justify-center text-2xl shadow-md',
+                  'flex-shrink-0 w-14 h-14 rounded-xl bg-gradient-to-br flex items-center justify-center text-xl font-bold text-white shadow-md',
                   cover.gradient,
                 )}>
-                  {cover.icon}
+                  {book.title.charAt(0)}
                 </div>
 
                 {/* 书籍信息 */}
@@ -235,7 +236,7 @@ export function Settings() {
         {bookMeta ? (
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
-              <span className="text-2xl">{bookMeta.kind === 'word' ? '📚' : '💬'}</span>
+              <span className="text-2xl font-bold">{bookMeta.kind === 'word' ? 'W' : 'S'}</span>
               <div>
                 <p className="font-medium">{bookMeta.title}</p>
                 <p className="text-sm text-slate-500">{bookMeta.description}</p>
@@ -347,12 +348,12 @@ export function Settings() {
         )}
         {settings.reminderEnabled && 'Notification' in window && Notification.permission !== 'granted' && (
           <p className="text-xs text-amber-500">
-            ⚠️ 浏览器通知权限未开启，请点击上方开关重新授权
+            浏览器通知权限未开启，请点击上方开关重新授权
           </p>
         )}
         {settings.reminderEnabled && !('Notification' in window) && (
           <p className="text-xs text-red-400">
-            ⚠️ 当前浏览器不支持通知功能
+            当前浏览器不支持通知功能
           </p>
         )}
       </section>
@@ -383,10 +384,10 @@ export function Settings() {
         </p>
         <div className="space-y-3">
           <Button variant="primary" size="md" className="w-full" onClick={handleExport}>
-            📥 导出学习记录
+            导出学习记录
           </Button>
           <Button variant="ghost" size="md" className="w-full ring-1 ring-slate-200 dark:ring-slate-600" onClick={handleImportClick}>
-            📤 导入学习记录
+            导入学习记录
           </Button>
           <input
             ref={fileInputRef}
@@ -396,24 +397,9 @@ export function Settings() {
             className="hidden"
           />
           <Button variant="danger" size="md" className="w-full" onClick={handleClearData}>
-            🗑 清除所有数据
+            清除所有数据
           </Button>
         </div>
-      </section>
-
-      {/* 关于 */}
-      <section className="card-container p-6 space-y-3">
-        <h3 className="font-semibold">关于</h3>
-        <div className="space-y-1 text-sm text-slate-500">
-          <p>VocabFlow 静态网页版</p>
-          <p>无需后端服务，所有数据保存在本地浏览器</p>
-          <p className="text-xs text-slate-400 mt-2">
-            FSRS 间隔重复算法 · 本地音频缓存 · Web Speech API
-          </p>
-        </div>
-        <Button variant="ghost" size="sm" onClick={() => navigate('/audio-debug')} className="w-full ring-1 ring-slate-200 dark:ring-slate-600">
-          🔧 音频调试工具
-        </Button>
       </section>
 
     </div>

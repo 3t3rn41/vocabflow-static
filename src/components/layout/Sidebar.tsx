@@ -5,12 +5,12 @@ import { getBookMeta } from '@/data/wordbooks';
 import { clsx } from 'clsx';
 
 const NAV = [
-  { to: '/today', label: '学习', icon: '📖' },
-  { to: '/review', label: '复习', icon: '🔄', wordOnly: true },
-  { to: '/dictation', label: '听写', icon: '📝', wordOnly: true },
-  { to: '/words', label: '词库', icon: '📚' },
-  { to: '/sentences', label: '句子', icon: '💬' },
-  { to: '/settings', label: '设置', icon: '⚙️' },
+  { to: '/today', label: '学习' },
+  { to: '/review', label: '复习', wordOnly: true },
+  { to: '/dictation', label: '听写', wordOnly: true },
+  { to: '/words', label: '词库' },
+  { to: '/sentences', label: '句子' },
+  { to: '/settings', label: '设置' },
 ];
 
 /** 过滤导航项：单词模式下不显示句子 tab，句子模式下不显示词库/复习/听写 tab */
@@ -45,10 +45,10 @@ export function Sidebar() {
     >
       <div className="p-4 border-b border-slate-200 dark:border-slate-700">
         <h1 className={clsx('font-bold text-brand-600', collapsed ? 'text-center text-sm' : 'text-xl')}>
-          {collapsed ? 'VF' : 'VocabFlow'}
+          {collapsed ? '涓' : '涓词 VocabFlow'}
         </h1>
         {!collapsed && bookMeta && (
-          <p className="text-xs text-slate-400 mt-0.5 truncate">📖 {bookMeta.title}</p>
+          <p className="text-xs text-slate-400 mt-0.5 truncate">{bookMeta.title}</p>
         )}
       </div>
       <nav className="flex-1 p-2 space-y-1">
@@ -66,7 +66,6 @@ export function Sidebar() {
               )
             }
           >
-            <span className="text-lg">{item.icon}</span>
             {!collapsed && <span className="text-sm font-medium">{item.label}</span>}
           </NavLink>
         ))}
@@ -100,7 +99,6 @@ export function BottomNav() {
               )
             }
           >
-            <span className="text-xl leading-none">{item.icon}</span>
             <span className="text-[10px] font-medium">{item.label}</span>
           </NavLink>
         ))}

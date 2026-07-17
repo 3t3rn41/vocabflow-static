@@ -54,7 +54,7 @@ function sendStudyNotification(dueCount: number) {
   if (!('Notification' in window)) return;
   if (Notification.permission !== 'granted') return;
 
-  const title = '📚 VocabFlow 学习提醒';
+  const title = '涓词 VocabFlow 学习提醒';
   const body = dueCount > 0
     ? `你有 ${dueCount} 个单词待复习，别忘了今天的学习哦！`
     : '该学习啦！坚持每天练习，才能记忆牢固～';
