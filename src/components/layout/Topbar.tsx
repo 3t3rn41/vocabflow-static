@@ -52,7 +52,7 @@ export function Topbar() {
           className="p-1.5 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-700 transition text-lg leading-none"
           title={isDarkActive ? '切换为浅色' : '切换为深色'}
         >
-          {isDarkActive ? 'Dark' : 'Light'}
+          {isDarkActive ? '🌙' : '☀️'}
         </button>
       </div>
     </header>
