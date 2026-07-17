@@ -604,3 +604,120 @@ export function preloadVoices(): Promise<SpeechSynthesisVoice[]> {
     setTimeout(() => resolve(window.speechSynthesis.getVoices()), 1_000);
   });
 }
+
+/* ------------------------------------------------------------------ */
+/* 调试辅助函数                                                         */
+/* ------------------------------------------------------------------ */
+
+export interface TtsDebugInfo {
+  audioBaseUrl: string;
+  manifestLoaded: boolean;
+  manifestLoading: boolean;
+  manifestEntryCount: number;
+  audioUnlocked: boolean;
+  speechSynthesisSupported: boolean;
+  voicesCount: number;
+  voices: Array<{ name: string; lang: string; default: boolean }>;
+  audioContextSupported: boolean;
+  audioContextState: string | null;
+  currentPlaybackId: number;
+}
+
+/** 获取 TTS 内部状态（用于调试） */
+export function getTtsDebugInfo(): TtsDebugInfo {
+  const voices = 'speechSynthesis' in window
+    ? window.speechSynthesis.getVoices()
+    : [];
+
+  return {
+    audioBaseUrl: LOCAL_AUDIO_BASE,
+    manifestLoaded: _audioMap !== null,
+    manifestLoading: _manifestLoading !== null && _audioMap === null,
+    manifestEntryCount: _audioMap?.size ?? 0,
+    audioUnlocked: _audioUnlocked,
+    speechSynthesisSupported: 'speechSynthesis' in window,
+    voicesCount: voices.length,
+    voices: voices.map((v) => ({
+      name: v.name,
+      lang: v.lang,
+      default: v.default,
+    })),
+    audioContextSupported: getAudioContext() !== null,
+    audioContextState: _audioCtx?.state ?? null,
+    currentPlaybackId: _currentPlaybackId,
+  };
+}
+
+/** 查找文本对应的本地音频 URL（调试用，暴露内部函数） */
+export function getLocalAudioUrlForDebug(text: string): string | null {
+  return getLocalAudioUrl(text);
+}
+
+/** 手动解锁音频（调试用） */
+export function forceUnlockAudio(): void {
+  unlockAudio();
+}
+
+/** 测试 fetch 一个 URL，返回详细状态（调试用） */
+export async function testFetchUrl(url: string): Promise<{
+  ok: boolean;
+  status: number;
+  statusText: string;
+  contentType: string | null;
+  contentLength: number | null;
+  bodySize: number | null;
+  error: string | null;
+}> {
+  try {
+    const res = await fetch(url);
+    const contentType = res.headers.get('content-type');
+    const contentLength = res.headers.get('content-length');
+    let bodySize: number | null = null;
+    if (res.ok) {
+      try {
+        const blob = await res.blob();
+        bodySize = blob.size;
+      } catch { /* ignore */ }
+    }
+    return {
+      ok: res.ok,
+      status: res.status,
+      statusText: res.statusText,
+      contentType,
+      contentLength: contentLength ? parseInt(contentLength, 10) : null,
+      bodySize,
+      error: null,
+    };
+  } catch (e) {
+    return {
+      ok: false,
+      status: 0,
+      statusText: '',
+      contentType: null,
+      contentLength: null,
+      bodySize: null,
+      error: (e as Error).message,
+    };
+  }
+}
+
+/** 仅使用浏览器 TTS 播放（跳过本地音频，调试用） */
+export async function speakWithBrowserTtsOnly(text: string, lang = 'en-US'): Promise<void> {
+  cancelCurrentPlayback();
+  const playbackId = ++_playbackId;
+  _currentPlaybackId = playbackId;
+
+  if ('speechSynthesis' in window) {
+    return speakWithBrowserTtsInternal(text, lang, playbackId);
+  }
+  throw new Error('浏览器不支持 speechSynthesis');
+}
+
+/** 仅尝试播放本地音频（跳过浏览器 TTS，调试用） */
+export async function speakWithLocalAudioOnly(text: string): Promise<boolean> {
+  await loadAudioManifest();
+  cancelCurrentPlayback();
+  const playbackId = ++_playbackId;
+  _currentPlaybackId = playbackId;
+  return speakWithLocalAudio(text, playbackId);
+}

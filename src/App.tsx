@@ -12,6 +12,7 @@ import { WordDetail } from '@/pages/WordDetail';
 import { Sentences } from '@/pages/Sentences';
 import { Settings } from '@/pages/Settings';
 import { Dictation } from '@/pages/Dictation';
+import { AudioDebug } from '@/pages/AudioDebug';
 import { ToastContainer } from '@/components/ui/Toast';
 import { Spinner } from '@/components/ui/Spinner';
 import { useStudyReminder } from '@/hooks/useStudyReminder';
@@ -83,6 +84,7 @@ export default function App() {
           <Route path="/sentences" element={<Sentences />} />
           <Route path="/dictation" element={<Dictation />} />
           <Route path="/settings" element={<Settings />} />
+          <Route path="/audio-debug" element={<AudioDebug />} />
           <Route path="/select-book" element={<WordBookSelection />} />
           <Route path="*" element={<Navigate to="/today" replace />} />
         </Route>

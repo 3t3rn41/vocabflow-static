@@ -411,6 +411,9 @@ export function Settings() {
             FSRS 间隔重复算法 · 本地音频缓存 · Web Speech API
           </p>
         </div>
+        <Button variant="ghost" size="sm" onClick={() => navigate('/audio-debug')} className="w-full ring-1 ring-slate-200 dark:ring-slate-600">
+          🔧 音频调试工具
+        </Button>
       </section>
 
     </div>
