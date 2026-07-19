@@ -674,20 +674,67 @@ export function exportAllData(): Record<string, unknown> {
   };
 }
 
-/** 导出数据并触发下载 */
-export function downloadExportData(): void {
+/**
+ * 导出数据并触发下载
+ *
+ * 网页版：使用 <a download> + blob URL 触发浏览器下载
+ * Android (Capacitor)：使用 Filesystem 写入文件 + Share 分享
+ *
+ * 两种环境互不影响，网页版行为完全不变。
+ */
+export async function downloadExportData(): Promise<void> {
   const data = exportAllData();
   const json = JSON.stringify(data, null, 2);
-  const blob = new Blob([json], { type: 'application/json' });
-  const url = URL.createObjectURL(blob);
   const dateStr = new Date().toISOString().slice(0, 10);
-  const a = document.createElement('a');
-  a.href = url;
-  a.download = `vocabflow-backup-${dateStr}.json`;
-  document.body.appendChild(a);
-  a.click();
-  document.body.removeChild(a);
-  URL.revokeObjectURL(url);
+  const fileName = `vocabflow-backup-${dateStr}.json`;
+
+  // 检测是否在 Capacitor 原生平台（Android/iOS）中运行
+  let isNative = false;
+  try {
+    const { Capacitor } = await import('@capacitor/core');
+    isNative = Capacitor.isNativePlatform();
+  } catch {
+    // @capacitor/core 未安装或不可用，按网页版处理
+  }
+
+  if (isNative) {
+    // Android: 使用 Filesystem 写入缓存 + Share 分享给用户保存
+    const { Filesystem, Directory, Encoding } = await import('@capacitor/filesystem');
+    const { Share } = await import('@capacitor/share');
+
+    // 写入到应用缓存目录
+    await Filesystem.writeFile({
+      path: fileName,
+      data: json,
+      directory: Directory.Cache,
+      encoding: Encoding.UTF8,
+    });
+
+    // 获取文件 URI 用于分享
+    const uriResult = await Filesystem.getUri({
+      path: fileName,
+      directory: Directory.Cache,
+    });
+
+    // 通过系统分享菜单让用户选择保存位置
+    await Share.share({
+      title: 'VocabFlow 学习记录备份',
+      text: `学习记录备份文件: ${fileName}`,
+      url: uriResult.uri,
+      dialogTitle: '保存学习记录',
+    });
+  } else {
+    // 网页版：使用 <a download> + blob URL 触发浏览器下载
+    const blob = new Blob([json], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = fileName;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  }
 }
 
 /** 从导入数据恢复所有学习记录 */

@@ -178,9 +178,9 @@ export function Settings() {
     navigate('/today');
   }
 
-  function handleExport() {
+  async function handleExport() {
     try {
-      dataApi.downloadData();
+      await dataApi.downloadData();
       pushToast('学习记录已导出', 'success');
     } catch (e) {
       pushToast(`导出失败: ${(e as Error).message}`, 'error');

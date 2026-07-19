@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">涓词 VocabFlow</string>
+    <string name="title_activity_main">涓词 VocabFlow</string>
+    <string name="package_name">com.vocabflow.app</string>
+    <string name="custom_url_scheme">com.vocabflow.app</string>
+</resources>

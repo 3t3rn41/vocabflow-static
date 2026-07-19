@@ -292,9 +292,9 @@ export const dataApi = {
     return _exportAllData();
   },
 
-  /** 导出数据并触发下载 */
-  downloadData: (): void => {
-    _downloadExportData();
+  /** 导出数据并触发下载（网页版浏览器下载，Android 通过系统分享保存） */
+  downloadData: async (): Promise<void> => {
+    return _downloadExportData();
   },
 
   /** 从导入数据恢复所有学习记录 */

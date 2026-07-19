@@ -1,3 +1,4 @@
+import { useState, useEffect } from 'react';
 import { useUiStore } from '@/stores/ui';
 import { useSettingsStore } from '@/stores/settings';
 import { useWordBookStore } from '@/stores/wordBook';
@@ -9,6 +10,22 @@ export function Topbar() {
   const patchSettings = useSettingsStore((s) => s.patch);
   const activeBookId = useWordBookStore((s) => s.activeBookId);
   const bookMeta = activeBookId ? getBookMeta(activeBookId) : null;
+
+  const [isFullscreen, setIsFullscreen] = useState(false);
+
+  useEffect(() => {
+    const handler = () => setIsFullscreen(!!document.fullscreenElement);
+    document.addEventListener('fullscreenchange', handler);
+    return () => document.removeEventListener('fullscreenchange', handler);
+  }, []);
+
+  function handleFullscreenToggle() {
+    if (document.fullscreenElement) {
+      document.exitFullscreen().catch(() => {});
+    } else {
+      document.documentElement.requestFullscreen().catch(() => {});
+    }
+  }
 
   /** 点击太阳/月亮图标，在亮色/暗色之间直接切换 */
   function handleThemeToggle() {
@@ -53,6 +70,13 @@ export function Topbar() {
           title={isDarkActive ? '切换为浅色' : '切换为深色'}
         >
           {isDarkActive ? '🌙' : '☀️'}
+        </button>
+        <button
+          onClick={handleFullscreenToggle}
+          className="p-1.5 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-700 transition text-lg leading-none"
+          title={isFullscreen ? '退出全屏' : '全屏'}
+        >
+          {isFullscreen ? '🗗' : '⛶'}
         </button>
       </div>
     </header>

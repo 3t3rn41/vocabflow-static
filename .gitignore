@@ -15,6 +15,13 @@ dist-ssr
 # Audio files are committed (OGG compressed, ~100MB total for static deployment)
 # public/audio
 
+# Android build artifacts (Capacitor)
+*.apk
+*.aab
+*.ap_
+android/app/build/
+VocabFlow-*-android.apk
+
 # Python
 __pycache__
 *.pyc
