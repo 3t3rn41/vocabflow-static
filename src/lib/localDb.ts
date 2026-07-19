@@ -37,6 +37,7 @@ const KEYS = {
   SENTENCE_PRACTICE_LOG: 'vf_sentence_practice_log',
   SETTINGS: 'vf_settings',
   ACTIVE_BOOK: 'vf_active_book',
+  FAVORITES: 'vf_favorites',
 } as const;
 
 /* ------------------------------------------------------------------ */
@@ -551,6 +552,9 @@ export interface LocalSettings {
   srsRetention?: number;
   keyboardLayout?: string;
   shuffleWords?: boolean;
+  cardTheme?: string;
+  dailyNewGoal?: number;
+  dailyReviewGoal?: number;
 }
 
 export function loadSettings(): LocalSettings {
@@ -667,6 +671,7 @@ export function exportAllData(): Record<string, unknown> {
     sentence_practice_log: loadSentencePracticeLog(),
     settings: loadSettings(),
     active_book: loadActiveBook(),
+    favorites: loadFavorites(),
     // 保留 v1 格式兼容的键
     vf_reminder_enabled: localStorage.getItem('vf_reminder_enabled'),
     vf_reminder_time: localStorage.getItem('vf_reminder_time'),
@@ -761,6 +766,8 @@ export function importAllData(data: Record<string, unknown>): void {
   if (sentencePracticeLog) saveSentencePracticeLog(sentencePracticeLog);
   if (settings) saveSettings(settings);
   if (activeBook !== undefined) saveJSON(KEYS.ACTIVE_BOOK, activeBook ?? null);
+  const favorites = data.favorites as FavoriteEntry[] | undefined;
+  if (favorites) saveFavorites(favorites);
 
   // 导入提醒设置
   if (data.vf_reminder_enabled !== undefined && data.vf_reminder_enabled !== null) {
@@ -774,6 +781,59 @@ export function importAllData(data: Record<string, unknown>): void {
   }
 }
 
+/* ------------------------------------------------------------------ */
+/* 生词本 / 收藏夹                                                      */
+/* ------------------------------------------------------------------ */
+
+export interface FavoriteEntry {
+  wordId: string;
+  word: string;
+  meaning_cn: string;
+  bookId: string;
+  addedAt: string;
+}
+
+export function loadFavorites(): FavoriteEntry[] {
+  return loadJSON<FavoriteEntry[]>(KEYS.FAVORITES, []);
+}
+
+function saveFavorites(favs: FavoriteEntry[]): void {
+  saveJSON(KEYS.FAVORITES, favs);
+}
+
+export function addFavorite(entry: Omit<FavoriteEntry, 'addedAt'>): void {
+  const favs = loadFavorites();
+  if (!favs.find((f) => f.wordId === entry.wordId)) {
+    favs.push({ ...entry, addedAt: new Date().toISOString() });
+    saveFavorites(favs);
+  }
+}
+
+export function removeFavorite(wordId: string): void {
+  saveFavorites(loadFavorites().filter((f) => f.wordId !== wordId));
+}
+
+export function isFavorite(wordId: string): boolean {
+  return loadFavorites().some((f) => f.wordId === wordId);
+}
+
+export function toggleFavorite(entry: Omit<FavoriteEntry, 'addedAt'>): boolean {
+  const favs = loadFavorites();
+  const idx = favs.findIndex((f) => f.wordId === entry.wordId);
+  if (idx >= 0) {
+    favs.splice(idx, 1);
+    saveFavorites(favs);
+    return false;
+  }
+  favs.push({ ...entry, addedAt: new Date().toISOString() });
+  saveFavorites(favs);
+  return true;
+}
+
+/* ------------------------------------------------------------------ */
+/* 清除所有数据                                                         */
+/* ------------------------------------------------------------------ */
+
 /** 清除所有学习数据 */
 export function clearAllData(): void {
   localStorage.removeItem(KEYS.SRS_CARDS);
@@ -784,4 +844,5 @@ export function clearAllData(): void {
   localStorage.removeItem(KEYS.SENTENCE_PRACTICE_LOG);
   localStorage.removeItem(KEYS.SETTINGS);
   localStorage.removeItem(KEYS.ACTIVE_BOOK);
+  localStorage.removeItem(KEYS.FAVORITES);
 }

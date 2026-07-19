@@ -29,6 +29,12 @@ import {
   loadActiveBook as _loadActiveBook,
   saveActiveBook as _saveActiveBook,
   clearActiveBook as _clearActiveBook,
+  loadFavorites as _loadFavorites,
+  addFavorite as _addFavorite,
+  removeFavorite as _removeFavorite,
+  isFavorite as _isFavorite,
+  toggleFavorite as _toggleFavorite,
+  type FavoriteEntry,
   exportAllData as _exportAllData,
   downloadExportData as _downloadExportData,
   importAllData as _importAllData,
@@ -306,4 +312,27 @@ export const dataApi = {
   clearData: (): void => {
     _clearAllData();
   },
+};
+
+/* ------------------------------------------------------------------ */
+/* 生词本 / 收藏夹 API                                                  */
+/* ------------------------------------------------------------------ */
+
+export type { FavoriteEntry };
+
+export const favoritesApi = {
+  /** 获取所有收藏单词 */
+  getAll: (): FavoriteEntry[] => _loadFavorites(),
+
+  /** 添加到收藏夹 */
+  add: (entry: Omit<FavoriteEntry, 'addedAt'>): void => _addFavorite(entry),
+
+  /** 从收藏夹移除 */
+  remove: (wordId: string): void => _removeFavorite(wordId),
+
+  /** 检查是否已收藏 */
+  isFavorite: (wordId: string): boolean => _isFavorite(wordId),
+
+  /** 切换收藏状态，返回是否已收藏 */
+  toggle: (entry: Omit<FavoriteEntry, 'addedAt'>): boolean => _toggleFavorite(entry),
 };

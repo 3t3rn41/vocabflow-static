@@ -1,17 +1,29 @@
 import { useNavigate } from 'react-router-dom';
 import { useSettingsStore } from '@/stores/settings';
+import type { CardTheme } from '@/stores/settings';
 import { useWordBookStore } from '@/stores/wordBook';
+import { useAuthStore } from '@/stores/auth';
 import { Button } from '@/components/ui/Button';
 import { useUiStore } from '@/stores/ui';
 import { rebuildFsrs } from '@/srs/engine';
 import { getBookMeta, WORD_BOOKS } from '@/data/wordbooks';
 import { useIsMobile } from '@/hooks/useIsMobile';
-import { dataApi } from '@/api/client';
-import { useState, useRef } from 'react';
+import { useState } from 'react';
 import { clsx } from 'clsx';
 import type { BookKind } from '@/types';
 
 const RETENTION_OPTIONS = [0.85, 0.9, 0.92, 0.95];
+
+const CARD_THEMES: { value: CardTheme; label: string; desc: string }[] = [
+  { value: 'default', label: '默认', desc: '标准白色卡片' },
+  { value: 'green', label: '护眼绿', desc: '柔和绿色背景' },
+  { value: 'parchment', label: '羊皮卷', desc: '复古纸质风格' },
+  { value: 'minimal', label: '极简白', desc: '极简阴影' },
+  { value: 'midnight', label: '午夜蓝', desc: '深蓝沉浸式' },
+];
+
+const DAILY_NEW_OPTIONS = [10, 20, 30, 50, 80];
+const DAILY_REVIEW_OPTIONS = [20, 50, 100, 150, 200];
 
 /* ================================================================
    词书切换弹窗
@@ -46,7 +58,7 @@ interface BookSwitcherModalProps {
 function BookSwitcherModal({ activeBookId, onSelect, onClose }: BookSwitcherModalProps) {
   return (
     <div
-      className="fixed inset-0 top-0 left-0 right-0 bottom-0 z-[100] flex items-end md:items-center justify-center p-0 md:p-4 bg-black/40 backdrop-blur-sm animate-fadeIn"
+      className="fixed top-0 left-0 right-0 bottom-0 z-[100] flex items-end md:items-center justify-center p-0 md:p-4 bg-black/40 backdrop-blur-sm animate-fadeIn"
       style={{ position: 'fixed', top: 0, left: 0, right: 0, bottom: 0 }}
       onClick={onClose}
     >
@@ -154,12 +166,12 @@ export function Settings() {
   const { activeBookId, setBook } = useWordBookStore();
   const pushToast = useUiStore((s) => s.pushToast);
   const navigate = useNavigate();
+  const { user, logout } = useAuthStore();
   const isMobile = useIsMobile();
 
   const bookMeta = activeBookId ? getBookMeta(activeBookId) : null;
 
   const [showBookSwitcher, setShowBookSwitcher] = useState(false);
-  const fileInputRef = useRef<HTMLInputElement>(null);
 
   function handleRetentionChange(value: number) {
     settings.patch({ srsRetention: value });
@@ -178,57 +190,37 @@ export function Settings() {
     navigate('/today');
   }
 
-  async function handleExport() {
-    try {
-      await dataApi.downloadData();
-      pushToast('学习记录已导出', 'success');
-    } catch (e) {
-      pushToast(`导出失败: ${(e as Error).message}`, 'error');
-    }
-  }
-
-  function handleImportClick() {
-    fileInputRef.current?.click();
-  }
-
-  function handleImportFile(e: React.ChangeEvent<HTMLInputElement>) {
-    const file = e.target.files?.[0];
-    if (!file) return;
-
-    const reader = new FileReader();
-    reader.onload = (event) => {
-      try {
-        const data = JSON.parse(event.target?.result as string);
-        dataApi.importData(data);
-        pushToast('学习记录已导入，页面即将刷新...', 'success');
-        setTimeout(() => window.location.reload(), 1500);
-      } catch (err) {
-        pushToast(`导入失败: ${(err as Error).message}`, 'error');
-      }
-    };
-    reader.onerror = () => {
-      pushToast('读取文件失败', 'error');
-    };
-    reader.readAsText(file);
-    // 清空 input 以便可以重复导入同一文件
-    e.target.value = '';
-  }
-
-  function handleClearData() {
-    if (!confirm('确认清除所有学习数据？此操作不可恢复！')) return;
-    if (!confirm('再次确认：所有单词复习进度、句子练习记录都将被删除！')) return;
-    try {
-      dataApi.clearData();
-      pushToast('所有学习数据已清除，页面即将刷新...', 'success');
-      setTimeout(() => window.location.reload(), 1500);
-    } catch (e) {
-      pushToast(`清除失败: ${(e as Error).message}`, 'error');
-    }
+  function handleLogout() {
+    if (!confirm('确认退出登录？')) return;
+    logout();
   }
 
   return (
     <div className="max-w-xl mx-auto space-y-6">
       <h2 className="text-2xl font-bold">设置</h2>
+
+      {/* 用户信息 */}
+      <section className="card-container p-6 space-y-4">
+        <h3 className="font-semibold">账号</h3>
+        <div className="flex items-center justify-between">
+          <div className="flex items-center gap-3">
+            <div className="w-12 h-12 rounded-full bg-gradient-to-br from-indigo-500 to-purple-600 flex items-center justify-center text-white text-xl font-bold">
+              {user?.username?.charAt(0).toUpperCase() ?? '?'}
+            </div>
+            <div>
+              <p className="font-medium">{user?.username ?? '未知用户'}</p>
+              <p className="text-xs text-slate-400">
+                '本地模式'
+              </p>
+            </div>
+          </div>
+          {false && (
+            <Button variant="ghost" size="sm" onClick={handleLogout}>
+              退出登录
+            </Button>
+          )}
+        </div>
+      </section>
 
       {/* 当前词书 */}
       <section className="card-container p-6 space-y-4">
@@ -358,6 +350,41 @@ export function Settings() {
         )}
       </section>
 
+      {/* 学习目标 — 2.3.2 */}
+      <section className="card-container p-6 space-y-4">
+        <h3 className="font-semibold">学习目标</h3>
+        <div className="flex items-center justify-between">
+          <div>
+            <span className="text-sm">每日新词目标</span>
+            <p className="text-xs text-slate-400 mt-0.5">每天计划学习的新词数量</p>
+          </div>
+          <select
+            className="input-base w-24"
+            value={settings.dailyNewGoal}
+            onChange={(e) => settings.patch({ dailyNewGoal: Number(e.target.value) })}
+          >
+            {DAILY_NEW_OPTIONS.map((n) => (
+              <option key={n} value={n}>{n}</option>
+            ))}
+          </select>
+        </div>
+        <div className="flex items-center justify-between">
+          <div>
+            <span className="text-sm">每日复习目标</span>
+            <p className="text-xs text-slate-400 mt-0.5">每天计划复习的单词数量</p>
+          </div>
+          <select
+            className="input-base w-24"
+            value={settings.dailyReviewGoal}
+            onChange={(e) => settings.patch({ dailyReviewGoal: Number(e.target.value) })}
+          >
+            {DAILY_REVIEW_OPTIONS.map((n) => (
+              <option key={n} value={n}>{n}</option>
+            ))}
+          </select>
+        </div>
+      </section>
+
       {/* 外观 */}
       <section className="card-container p-6 space-y-4">
         <h3 className="font-semibold">外观</h3>
@@ -373,32 +400,34 @@ export function Settings() {
             <option value="dark">深色</option>
           </select>
         </div>
-      </section>
-
-      {/* 数据管理 — 导出 / 导入 / 清除 */}
-      <section className="card-container p-6 space-y-4">
-        <h3 className="font-semibold">数据管理</h3>
-        <p className="text-xs text-slate-400">
-          所有学习数据保存在浏览器本地，可导出备份或导入恢复。
-          建议定期导出以防数据丢失。
-        </p>
-        <div className="space-y-3">
-          <Button variant="primary" size="md" className="w-full" onClick={handleExport}>
-            导出学习记录
-          </Button>
-          <Button variant="ghost" size="md" className="w-full ring-1 ring-slate-200 dark:ring-slate-600" onClick={handleImportClick}>
-            导入学习记录
-          </Button>
-          <input
-            ref={fileInputRef}
-            type="file"
-            accept="application/json,.json"
-            onChange={handleImportFile}
-            className="hidden"
-          />
-          <Button variant="danger" size="md" className="w-full" onClick={handleClearData}>
-            清除所有数据
-          </Button>
+        {/* 卡片皮肤 — 2.5.1 */}
+        <div className="space-y-2">
+          <span className="text-sm">卡片风格</span>
+          <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
+            {CARD_THEMES.map((ct) => (
+              <button
+                key={ct.value}
+                onClick={() => settings.patch({ cardTheme: ct.value })}
+                className={clsx(
+                  'p-3 rounded-xl border-2 transition text-left',
+                  settings.cardTheme === ct.value
+                    ? 'border-brand-500 bg-brand-50 dark:bg-brand-900/20'
+                    : 'border-slate-200 dark:border-slate-600 hover:border-brand-300',
+                )}
+              >
+                <div className={clsx(
+                  'w-full h-8 rounded-lg mb-1.5 border',
+                  ct.value === 'default' && 'bg-white border-slate-300',
+                  ct.value === 'green' && 'bg-[rgb(237,247,237)] border-[rgb(198,226,199)]',
+                  ct.value === 'parchment' && 'bg-[rgb(250,240,218)] border-[rgb(218,200,168)]',
+                  ct.value === 'minimal' && 'bg-white border-slate-100',
+                  ct.value === 'midnight' && 'bg-[rgb(30,35,60)] border-[rgb(50,60,100)]',
+                )} />
+                <p className="text-xs font-medium">{ct.label}</p>
+                <p className="text-[10px] text-slate-400">{ct.desc}</p>
+              </button>
+            ))}
+          </div>
         </div>
       </section>
 
