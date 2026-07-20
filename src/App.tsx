@@ -11,7 +11,6 @@ import { WordDetail } from '@/pages/WordDetail';
 import { Sentences } from '@/pages/Sentences';
 import { Settings } from '@/pages/Settings';
 import { Dictation } from '@/pages/Dictation';
-import { Spelling } from '@/pages/Spelling';
 import { Quiz } from '@/pages/Quiz';
 import { Translate } from '@/pages/Translate';
 import { MatchGame } from '@/pages/MatchGame';
@@ -88,7 +87,6 @@ export default function App() {
           <Route path="/words/:id" element={<WordDetail />} />
           <Route path="/sentences" element={<Sentences />} />
           <Route path="/dictation" element={<Dictation />} />
-          <Route path="/spelling" element={<Spelling />} />
           <Route path="/quiz" element={<Quiz />} />
           <Route path="/translate" element={<Translate />} />
           <Route path="/match" element={<MatchGame />} />

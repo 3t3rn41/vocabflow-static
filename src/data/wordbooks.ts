@@ -204,16 +204,37 @@ export function getWordById(wordId: string): WordEntry | null {
 
 /** 搜索单词（在指定词书内） */
 export function searchWords(bookId: string, query: string, limit = 50): WordEntry[] {
-  const words = getWordsByBook(bookId);
-  const q = query.trim().toLowerCase();
-  if (!q) return [];
-  return words
-    .filter(
-      (w) =>
-        w.word.toLowerCase().startsWith(q) ||
-        w.meaning_cn.includes(query.trim()),
-    )
-    .slice(0, limit);
+const words = getWordsByBook(bookId);
+const q = query.trim().toLowerCase();
+if (!q) return [];
+return words
+.filter(
+(w) =>
+w.word.toLowerCase().startsWith(q) ||
+w.meaning_cn.includes(query.trim()),
+)
+.slice(0, limit);
+}
+
+/** 跨词书搜索（在所有单词类型词书中搜索） */
+export function searchAllWords(query: string, limit = 100): WordEntry[] {
+const q = query.trim().toLowerCase();
+if (!q) return [];
+const results: WordEntry[] = [];
+for (const book of WORD_BOOKS) {
+if (book.kind !== 'word') continue;
+const words = getWordsByBook(book.id);
+for (const w of words) {
+if (
+w.word.toLowerCase().startsWith(q) ||
+w.meaning_cn.includes(query.trim())
+) {
+results.push(w);
+if (results.length >= limit) return results;
+}
+}
+}
+return results;
 }
 
 /* ------------------------------------------------------------------ */

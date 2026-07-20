@@ -34,13 +34,12 @@ const NAV: NavItem[] = [
   { to: '/today', label: '学习', icon: 'home', section: 'main' },
   { to: '/review', label: '复习', icon: 'review', wordOnly: true, section: 'practice' },
   { to: '/dictation', label: '听写', icon: 'dictation', wordOnly: true, section: 'practice' },
-  { to: '/spelling', label: '拼写', icon: 'spelling', wordOnly: true, section: 'practice' },
   { to: '/quiz', label: '选择', icon: 'quiz', wordOnly: true, section: 'practice' },
   { to: '/translate', label: '互译', icon: 'translate', wordOnly: true, section: 'practice' },
   { to: '/match', label: '配对', icon: 'match', wordOnly: true, section: 'practice' },
   { to: '/words', label: '词库', icon: 'words', section: 'main' },
   { to: '/sentences', label: '句子', icon: 'sentences', section: 'main' },
-  { to: '/favorites', label: '生词本', icon: 'favorites', section: 'other' },
+  { to: '/favorites', label: '生词本', icon: 'favorites', wordOnly: true, section: 'other' },
   { to: '/settings', label: '设置', icon: 'settings', section: 'other' },
 ];
 
@@ -131,7 +130,7 @@ export function Sidebar() {
 export function BottomNav() {
   const items = useFilteredNav();
   const mobileItems = items.filter((item) =>
-    ['/today', '/review', '/words', '/sentences', '/favorites'].includes(item.to),
+    ['/today', '/review', '/words', '/sentences', '/favorites', '/settings'].includes(item.to),
   );
 
   return (

@@ -248,7 +248,6 @@ export function Today() {
       {!isSentenceBook && (
         <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 md:gap-3">
           {[
-            { to: '/spelling', label: '拼写', color: 'text-indigo-600 dark:text-indigo-400' },
             { to: '/quiz', label: '选择', color: 'text-emerald-600 dark:text-emerald-400' },
             { to: '/translate', label: '互译', color: 'text-amber-600 dark:text-amber-400' },
             { to: '/match', label: '配对', color: 'text-purple-600 dark:text-purple-400' },
