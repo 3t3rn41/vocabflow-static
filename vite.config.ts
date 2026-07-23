@@ -2,13 +2,15 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import path from 'node:path'
 
+import { cloudflare } from "@cloudflare/vite-plugin";
+
 // 构建时间戳，用于文件名后缀以避免浏览器缓存
 const BUILD_TIMESTAMP = Date.now()
 
 export default defineConfig({
   // GitHub Pages 部署在 https://<user>.github.io/vocabflow-static/ 子路径下
   base: '/vocabflow-static/',
-  plugins: [react()],
+  plugins: [react(), cloudflare()],
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
